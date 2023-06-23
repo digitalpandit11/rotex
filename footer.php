@@ -25,10 +25,10 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h5 class="text-light mb-4">Materials</h5>
-                    <a class="btn btn-link" href="hgh_tensile_fasteners.php">High Tensile Fasteners</a>
+                    <a class="btn btn-link" href="High_tensile_fasteners.php">High Tensile Fasteners</a>
                     <a class="btn btn-link" href="stainless_steel_fasteners.php">Stainless Steel Fasteners</a>
                     <a class="btn btn-link" href="carbon_steel_fasteners.php">Carbon Steel Fasteners</a>
-                    <a class="btn btn-link" href="mld_steel_fasteners.php">Mild Steel Fasteners</a>
+                    <a class="btn btn-link" href="mild_steel_fasteners.php">Mild Steel Fasteners</a>
                     <a class="btn btn-link" href="astm_a193_grade_b16_fasteners.php">ASTM A193 Grade B16 Bolt</a>
                 </div>
                 <div class="col-lg-3 col-md-6">
