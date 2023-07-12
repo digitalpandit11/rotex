@@ -44,12 +44,13 @@
                             <img class="mt-2" src="img/product1/HEX NUTS/hn6.webp" width="100%" alt="">
                         </div>
                     </div><br><br>
-                    <h3 class="text-primary">Hex Nut Manufacturers, Exporter, and Stockist in India</h3>
-                    <p class="mb-4 pb-2">Rotex Engineers  is one of the largest Hex Nut Manufacturer in India. To manufacture high-quality Hex Nuts for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our company is a renowned stockist of many types of high-quality Hex Nuts for huge enterprises, businesses, and other industries. We supply and export a wide assortment of Hex Nut in India and a few other countries. We have played a significant role in the development and growth of the Indian market.</p>
-                    <p class="mb-4 pb-2">The Hex Nuts are well-known for their dimensional perfection and exquisite quality, as well as their corrosion resistance. We have professional staff to ensure the quality of Hexagonal Nut throughout the manufacturing process, from raw material selection to processing, marketing, packaging, storage, and transportation. We have a large selection of Hex Nut in stock and ready to ship. We take orders and manufacture according to the specifications of our customers. We are also the largest exporter of Heavy Hex Nuts.</p>
+                    <h3 class="text-primary jt">Hex Nut Manufacturers, Exporter, and Stockist in India</h3>
+                    <p class="mb-4 pb-2 jt">Rotex Engineers  is one of the largest Hex Nut Manufacturer in India. To manufacture high-quality Hex Nuts for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our company is a renowned stockist of many types of high-quality Hex Nuts for huge enterprises, businesses, and other industries. We supply and export a wide assortment of Hex Nut in India and a few other countries. We have played a significant role in the development and growth of the Indian market.</p>
+                    <p class="mb-4 pb-2 jt">The Hex Nuts are well-known for their dimensional perfection and exquisite quality, as well as their corrosion resistance. We have professional staff to ensure the quality of Hexagonal Nut throughout the manufacturing process, from raw material selection to processing, marketing, packaging, storage, and transportation. We have a large selection of Hex Nut in stock and ready to ship. We take orders and manufacture according to the specifications of our customers. We are also the largest exporter of Heavy Hex Nuts.</p>
 
                     <br><br>
                     <h3 class="text-primary">Specification of Hex Nut :</h3>
+                    <div class="table-responsive">
                     <table class=" table table-bordered ">
                         <tbody>
                             <tr>
@@ -83,17 +84,18 @@
                             
                         </tbody>
                     </table>
+                  </div>
                     <br><br>
                     <div class="row">
                         <div class="col-lg-6">
-                            <h4 class="mb-2">Application & Uses Of Hex  Nut Exporter</h4>
+                            <h4 class="mb-2 jt">Application & Uses Of Hex  Nut Exporter</h4>
                             <ul>
-                                <li class="mb-2">Hex Nut used in Petroleum Industry</li>
-                                <li class="mb-2">Hex Nut used in Aerospace Industry</li>
-                                <li class="mb-2">Hex Nut used in Chemical Industry</li>
-                                <li class="mb-2">Hex Nut used in oil & Gas Industry</li>
-                                <li class="mb-2">Hex Nut used in Nuclear Energy Sector</li>
-                                <li class="mb-2">Hex Nut used in automotive industries</li>
+                                <li class="mb-2 jt">Hex Nut used in Petroleum Industry</li>
+                                <li class="mb-2 jt">Hex Nut used in Aerospace Industry</li>
+                                <li class="mb-2 jt">Hex Nut used in Chemical Industry</li>
+                                <li class="mb-2 jt">Hex Nut used in oil & Gas Industry</li>
+                                <li class="mb-2 jt">Hex Nut used in Nuclear Energy Sector</li>
+                                <li class="mb-2 jt">Hex Nut used in automotive industries</li>
                             </ul>
                         </div>
                         <div class="col-lg-6">
@@ -101,10 +103,11 @@
                         </div>
                     </div>
                     <br><br>
-                    <h3 class="text-primary">About Hex Nut Manufacturer - Rotex Engineers</h3>
-                    <p class="mb-4 pb-2">A Hex Nut is a small (typically square or hexagonal) metal block with an internal screw thread that is used to secure a bolt. We produce a wide range of Hex Nuts with varying sizes, shapes, thicknesses, and grades. All of our Hex Nut Fasteners are compliant with International Quality Standards (IQS) and used anywhere in the world without any problem. Our Enterprises has a long history and a large number of satisfied customers all over the world.</p>
-                    <h3 class="text-primary">Supplying Hex Nut to Following Domestic Cities</h3>
-                    <p class="mb-4 pb-2">Rotex Engineers is one of India’s major producers, exporters, stockist of Hex Nuts, due to its dependability and performance. We export two containers of Hex Nuts products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Hex Nuts at affordable prices with simple services.</p>
+                    <h3 class="text-primary jt">About Hex Nut Manufacturer - Rotex Engineers</h3>
+                    <p class="mb-4 pb-2 jt">A Hex Nut is a small (typically square or hexagonal) metal block with an internal screw thread that is used to secure a bolt. We produce a wide range of Hex Nuts with varying sizes, shapes, thicknesses, and grades. All of our Hex Nut Fasteners are compliant with International Quality Standards (IQS) and used anywhere in the world without any problem. Our Enterprises has a long history and a large number of satisfied customers all over the world.</p>
+                    <h3 class="text-primary jt">Supplying Hex Nut to Following Domestic Cities</h3>
+                    <p class="mb-4 pb-2 jt">Rotex Engineers is one of India’s major producers, exporters, stockist of Hex Nuts, due to its dependability and performance. We export two containers of Hex Nuts products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Hex Nuts at affordable prices with simple services.</p>
+                    <div class="table-responsive">
                     <table class="table table-bordered">
                         <thead>
                             <th colspan="6"><center>Cities We Supply Hex Nut products</center></th>
@@ -200,8 +203,10 @@
                             </tr>
                         </tbody>
                     </table>
-                    <h3 class="text-primary">Export Hex Nut products to Below Countries</h3>
-                    <p class="mb-4 pb-2">Our high-quality Hexagonal Nut and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading Hex Nuts exporter. Over 35 countries purchased our Hex Nuts on a regular basis. We’ve supplied over 1000+ toners of the Hex Nuts to India in the last seven years. Custom Hex Nuts orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                    </div>
+                    <h3 class="text-primary jt">Export Hex Nut products to Below Countries</h3>
+                    <p class="mb-4 pb-2 jt">Our high-quality Hexagonal Nut and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading Hex Nuts exporter. Over 35 countries purchased our Hex Nuts on a regular basis. We’ve supplied over 1000+ toners of the Hex Nuts to India in the last seven years. Custom Hex Nuts orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                    <div class="table-responsive">
                     <table class="table table-bordered">
                         <thead>
                             <th colspan="4"><center>Countries We Export our Hex Nut products</center></th>
@@ -246,6 +251,7 @@
                         </tbody>
                     </table>
                 </div>
+             </div>
                 <div class="col-lg-3 about-text  wow fadeIn" data-wow-delay="0.5s">
                     <div class="p-lg-5 pe-lg-0">
                         <div class="bg-primary mb-3" style="width: 60px; height: 2px;"></div>

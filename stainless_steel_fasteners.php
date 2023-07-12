@@ -22,13 +22,14 @@
         <div class="container about px-lg-0">
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-12 ps-lg-4" style="min-height: 400px;">
-                    <center><img class="mt-2" src="img/product/materials/ss-fasteners.jpg" alt=""></center><br><br>
-                    <h3 class="text-primary">Stainless Steel Fasteners Manufacturers, Exporter, and Stockist in India</h3>
-                    <p class="mb-4 pb-2">Rotex Engineers is one of the leading Manufacturer of Stainless Steel Fasteners in Mumbai, India. Such as ASTM A193, that are sourced from high-quality raw materials and ensure the endurance of industry-standard goods. We have the most comprehensive Stainless Steel Fasteners range and stock all sizes of nuts, bolts, washers, metal thread screws, hex socket screws, self-tapping & wood screws, and sanctuary products in imperial, metric, and all grades. The use of such fasteners extends the life of equipment while also reducing the need for repairs and maintenance. These Stainless Steel Fasteners are available in a variety of sizes and grades. These Stainless Steel Fasteners can be further customized in terms of sizes and thicknesses to meet the specific needs of our valued clients.</p>
-                    <p class="mb-4 pb-2">Stainless Steel 304 is the most common austenitic chromium-nickel stainless steel, which contains 18% chromium and 8% nickel. This stainless steel grade has many advantages, including high strength, flexibility, excellent corrosion resistance, and spinning properties. Stainless Steel 316 is a common molybdenum-bearing grade, and it has a lower carbon version, 316L. This grade’s molybdenum content provides excellent corrosion resistance, making it suitable for both acidic and corrosive environments. We are also the suppliers of Carbon Steel Fasteners and so on.</p>
+                    <center><img class="img-fluid mt-2" src="img/product/materials/ss-fasteners.jpg" alt=""></center><br><br>
+                    <h3 class="text-primary jt">Stainless Steel Fasteners Manufacturers, Exporter, and Stockist in India</h3>
+                    <p class="mb-4 pb-2 jt">Rotex Engineers is one of the leading Manufacturer of Stainless Steel Fasteners in Mumbai, India. Such as ASTM A193, that are sourced from high-quality raw materials and ensure the endurance of industry-standard goods. We have the most comprehensive Stainless Steel Fasteners range and stock all sizes of nuts, bolts, washers, metal thread screws, hex socket screws, self-tapping & wood screws, and sanctuary products in imperial, metric, and all grades. The use of such fasteners extends the life of equipment while also reducing the need for repairs and maintenance. These Stainless Steel Fasteners are available in a variety of sizes and grades. These Stainless Steel Fasteners can be further customized in terms of sizes and thicknesses to meet the specific needs of our valued clients.</p>
+                    <p class="mb-4 pb-2 jt">Stainless Steel 304 is the most common austenitic chromium-nickel stainless steel, which contains 18% chromium and 8% nickel. This stainless steel grade has many advantages, including high strength, flexibility, excellent corrosion resistance, and spinning properties. Stainless Steel 316 is a common molybdenum-bearing grade, and it has a lower carbon version, 316L. This grade’s molybdenum content provides excellent corrosion resistance, making it suitable for both acidic and corrosive environments. We are also the suppliers of Carbon Steel Fasteners and so on.</p>
 
                     <br><br>
-                    <h3 class="text-primary">Specification of Stainless Steel Fasteners</h3>
+                    <h3 class="text-primary jt">Specification of Stainless Steel Fasteners</h3>
+                    <div class="table-responsive">
                     <table class=" table table-bordered ">
                         <tbody>
                             <tr>
@@ -67,9 +68,11 @@
                             </tr>
                         </tbody>
                     </table>
+                    </div>
                     <br><br>
 
                     <h3 class="text-primary">Equivalent Grades of Stainless Steel Fasteners</h3>
+                    <div class="table-responsive">
                     <table class=" table table-bordered ">
                         <tbody>
                             <tr>
@@ -107,9 +110,10 @@
                         </tbody>
                     </table>
                         
-                    
+                    </div>
                     <br><br>    
-                    <h3 class="text-primary">Stainless Steel Fasteners Chemical Composition</h3>
+                    <h3 class="text-primary jt">Stainless Steel Fasteners Chemical Composition</h3>
+                    <div class="table-responsive">
                     <table class=" table table-bordered ">
                         <tbody>
                             <tr>
@@ -153,9 +157,10 @@
                         </tbody>
                     </table>
                         
-                    
+                </div>
                     <br><br>
                     <h3 class="text-primary">Stainless Steel Fasteners Mechanical Properties</h3>
+                   <div class="table-responsive">
                     <table class=" table table-bordered ">
                         <tbody>
                             <tr>
@@ -187,18 +192,18 @@
                         </tbody>
                     </table>
                         
-                    
+                </div>
                     <br><br>
                     <div class="row">
                         <div class="col-lg-6">
-                            <h4 class="mb-2">Application & Uses Of Stainless Steel Fasteners</h4>
+                            <h4 class="mb-2 jt">Application & Uses Of Stainless Steel Fasteners</h4>
                             <ul>
-                                <li class="mb-2">Stainless Steel Fasteners used in Petroleum Industry</li>
-                                <li class="mb-2">Carbon Steel Fastener used in Aerospace Industry</li>
-                                <li class="mb-2">SS 304 Fasteners used in Chemical Industry</li>
-                                <li class="mb-2">SS  Fastener used in oil & Gas Industry</li>
-                                <li class="mb-2">Stainless Steel Fasteners used in Nuclear Energy Sector</li>
-                                <li class="mb-2">SS 316 Fastener used in automotive industries</li>
+                                <li class="mb-2 jt">Stainless Steel Fasteners used in Petroleum Industry</li>
+                                <li class="mb-2 jt">Carbon Steel Fastener used in Aerospace Industry</li>
+                                <li class="mb-2 jt">SS 304 Fasteners used in Chemical Industry</li>
+                                <li class="mb-2 jt">SS  Fastener used in oil & Gas Industry</li>
+                                <li class="mb-2 jt">Stainless Steel Fasteners used in Nuclear Energy Sector</li>
+                                <li class="mb-2 jt">SS 316 Fastener used in automotive industries</li>
                             </ul>
                         </div>
                         <div class="col-lg-6">
@@ -206,10 +211,11 @@
                         </div>
                     </div>
                     <br><br>
-                    <h3 class="text-primary">About Stainless  Steel Fastener Manufacturer - Rotex Engineers</h3>
-                    <p class="mb-4 pb-2">Rotex Engineers manufactures Stainless Steel Fasteners using advanced manufacturing techniques. To ensure higher efficiency and less maintenance, the raw material is sourced from reputable market vendors who provide 100% pure alloy quality. Our entire manufacturing process is carried out under the strict supervision of our professional experts who have desirable product development skills and knowledge. These SS 304 Fasteners are designed in accordance with established manufacturing standards, as well as national and international product quality standards. Our engineers precisely manufacture SS 316 Fasteners in a variety of customized and non-customized specifications, including wall thickness, length, forms, surface finishes, types, standards, dimensions, and so on. We always guarantee that we will deliver the product on time and in good condition to our dependable customers.</p>
-                    <h3 class="text-primary">Supplying Stainless  Steel Fastener to Following Domestic Cities</h3>
-                    <p class="mb-4 pb-2">Rotex Engineers  is one of India’s major producers, exporters, stockist of Stainless Steel Fasteners, due to its dependability and performance. We export two containers of Stainless Steel Fasteners products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Stainless Steel Fasteners at affordable prices with simple services.</p>
+                    <h3 class="text-primary jt">About Stainless  Steel Fastener Manufacturer - Rotex Engineers</h3>
+                    <p class="mb-4 pb-2 jt">Rotex Engineers manufactures Stainless Steel Fasteners using advanced manufacturing techniques. To ensure higher efficiency and less maintenance, the raw material is sourced from reputable market vendors who provide 100% pure alloy quality. Our entire manufacturing process is carried out under the strict supervision of our professional experts who have desirable product development skills and knowledge. These SS 304 Fasteners are designed in accordance with established manufacturing standards, as well as national and international product quality standards. Our engineers precisely manufacture SS 316 Fasteners in a variety of customized and non-customized specifications, including wall thickness, length, forms, surface finishes, types, standards, dimensions, and so on. We always guarantee that we will deliver the product on time and in good condition to our dependable customers.</p>
+                    <h3 class="text-primary jt">Supplying Stainless  Steel Fastener to Following Domestic Cities</h3>
+                    <p class="mb-4 pb-2 jt">Rotex Engineers  is one of India’s major producers, exporters, stockist of Stainless Steel Fasteners, due to its dependability and performance. We export two containers of Stainless Steel Fasteners products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Stainless Steel Fasteners at affordable prices with simple services.</p>
+                    <div class="table-responsive">
                     <table class="table table-bordered">
                         <thead>
                             <th colspan="6"><center>Cities We Supply Stainless  Steel Fastener products</center></th>
@@ -305,8 +311,10 @@
                             </tr>
                         </tbody>
                     </table>
-                    <h3 class="text-primary">Export Stainless Stee Fasteners products to Below Countries</h3>
-                    <p class="mb-4 pb-2">Our high-quality Stainless Steel Fasteners and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading Stainless Steel Fasteners suppliers. Over 35 countries purchased our Stainless Steel Fasteners on a regular basis. We’ve supplied over 100+ tonnes of the Stainless Steel Fasteners to India in the last seven years. Custom Stainless Steel Fasteners orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                    </div>
+                    <h3 class="text-primary jt">Export Stainless Stee Fasteners products to Below Countries</h3>
+                    <p class="mb-4 pb-2 jt">Our high-quality Stainless Steel Fasteners and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading Stainless Steel Fasteners suppliers. Over 35 countries purchased our Stainless Steel Fasteners on a regular basis. We’ve supplied over 100+ tonnes of the Stainless Steel Fasteners to India in the last seven years. Custom Stainless Steel Fasteners orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                    <div class="table-responsive">
                     <table class="table table-bordered">
                         <thead>
                             <th colspan="4"><center>Countries We Export our Stainless Stee Fasteners products</center></th>
@@ -350,6 +358,7 @@
                             </tr>
                         </tbody>
                     </table>
+                    </div>
                 </div>
             </div>
         </div>

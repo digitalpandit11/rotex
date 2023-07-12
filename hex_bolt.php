@@ -38,33 +38,33 @@
                         <img class="mt-2" src="img/product1/HEX BOLTS/hb5.webp" width="100%" alt="">
                     </div>
                 </div><br><br>
-                <h3 class="text-primary">Hex Bolt Manufacturers, Exporter, and Stockist in India</h3>
-                <p class="mb-4 pb-2">Rotex Engineers is top Manufacturer of Hex Bolt in India. We provides Hex Bolt in a variety of sizes and shapes. Hex Bolts can also be found in a variety of materials and grades. Each Hex Bolt has different specification and use. We are also known as leading Hex Bolts Manufacturer, Stockist & Exportor in India. To manufacture high-quality Hex Bolts for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our qualitative range of Hex Bolt is exclusively designed for several bolts applications of various industries Such as Petroleum industry, Oil & Gas Industries, Chemical Processing industry etc.</p>
-                <p class="mb-4 pb-2">We have a large selection of Hex Bolt in stock and ready to ship. We take orders and manufacture according to the requirement of our customers. we are India’s biggest manufacturer of larger diameter Hex Bolt as well as fasteners. All of our Bolt are compliant with International Quality Standards (IQS) and may be used anywhere in the world without any problem. We also specialize in Allen Cap Bolt.</p>
+                <h3 class="text-primary jt">Hex Bolt Manufacturers, Exporter, and Stockist in India</h3>
+                <p class="mb-4 pb-2 jt">Rotex Engineers is top Manufacturer of Hex Bolt in India. We provides Hex Bolt in a variety of sizes and shapes. Hex Bolts can also be found in a variety of materials and grades. Each Hex Bolt has different specification and use. We are also known as leading Hex Bolts Manufacturer, Stockist & Exportor in India. To manufacture high-quality Hex Bolts for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our qualitative range of Hex Bolt is exclusively designed for several bolts applications of various industries Such as Petroleum industry, Oil & Gas Industries, Chemical Processing industry etc.</p>
+                <p class="mb-4 pb-2 jt">We have a large selection of Hex Bolt in stock and ready to ship. We take orders and manufacture according to the requirement of our customers. we are India’s biggest manufacturer of larger diameter Hex Bolt as well as fasteners. All of our Bolt are compliant with International Quality Standards (IQS) and may be used anywhere in the world without any problem. We also specialize in Allen Cap Bolt.</p>
 
                 <br><br>
                 <h3 class="text-primary">Specification of Hex Bolt :</h3>
                 <ul>
                     <li>
-                    <p class="mb-2"><b>Hex Bolts Standard:</b> EU, IFI, CSN, Italian, ASME, British BS, Indian IS, ISO, DIN, Polish PN, SAE</p>
+                    <p class="mb-2 jt"><b>Hex Bolts Standard:</b> EU, IFI, CSN, Italian, ASME, British BS, Indian IS, ISO, DIN, Polish PN, SAE</p>
                     </li>
                     <li>
-                    <p class="mb-2"><b>Hex Bolts Sizes:</b> M2, M2.5, M3, M4, M5, M6, M8, M10, M12, M14, M16, M20, M24, M30, M36 to M160</p>
+                    <p class="mb-2 jt"><b>Hex Bolts Sizes:</b> M2, M2.5, M3, M4, M5, M6, M8, M10, M12, M14, M16, M20, M24, M30, M36 to M160</p>
                     </li>
                     <li>
-                    <p class="mb-2"><b>Hex Bolts Length:</b> 3/8 to 8″</p>
+                    <p class="mb-2 jt"><b>Hex Bolts Length:</b> 3/8 to 8″</p>
                     </li>
                     <li>
-                    <p class="mb-2"><b>Hex Bolts Materials:</b> High Tensile, Carbon Steel, Stainless Steel, Inconel Fasteners, Incoloy Fasteners, Hastelloy Fasteners, Monel Fasteners, Silicon Bronze, Phospher Bronze, Aluminium Bronze, Nickel, Brass, Copper, Copper Nickel, Nitronic, Nimonic, ASME, ASTM</p>
+                    <p class="mb-2 jt"><b>Hex Bolts Materials:</b> High Tensile, Carbon Steel, Stainless Steel, Inconel Fasteners, Incoloy Fasteners, Hastelloy Fasteners, Monel Fasteners, Silicon Bronze, Phospher Bronze, Aluminium Bronze, Nickel, Brass, Copper, Copper Nickel, Nitronic, Nimonic, ASME, ASTM</p>
                     </li>
                     <li>
-                    <p class="mb-2"><b>Hex Bolts Coating:</b> PTFE Coated Hex Bolt, Hot Dip galvanized Hex Bolt, Yellow Zinc Plated Hex Bolt, Blue Zinc Plated Hex Bolt, Black Zinc Plated, Hex Bolt, Zinc Cobalt Plated Hex Bolt, Aluminium Zinc Flake Coated Hex Bolt, Black Phosphate Hex Bolt, Zinc Plated Hex Bolt, Nickel Plated Hex Bolt</p>
+                    <p class="mb-2 jt"><b>Hex Bolts Coating:</b> PTFE Coated Hex Bolt, Hot Dip galvanized Hex Bolt, Yellow Zinc Plated Hex Bolt, Blue Zinc Plated Hex Bolt, Black Zinc Plated, Hex Bolt, Zinc Cobalt Plated Hex Bolt, Aluminium Zinc Flake Coated Hex Bolt, Black Phosphate Hex Bolt, Zinc Plated Hex Bolt, Nickel Plated Hex Bolt</p>
                     </li>
                     <li>
-                    <p class="mb-2"><b>High Tensile grades:</b> 8.8 Bolts Hex Bolts, 10.9 Hex Bolts, 12.9 Hex Bolts, 14.9 Hex Bolts</p>
+                    <p class="mb-2 jt"><b>High Tensile grades:</b> 8.8 Bolts Hex Bolts, 10.9 Hex Bolts, 12.9 Hex Bolts, 14.9 Hex Bolts</p>
                     </li>
                     <li>
-                    <p class="mb-2 "><b>Hex Bolts Forming:</b> Hot Forged Hex Bolts & Cold Forged Hex Bolts</p>
+                    <p class="mb-2 jt "><b>Hex Bolts Forming:</b> Hot Forged Hex Bolts & Cold Forged Hex Bolts</p>
                     </li>
                 </ul>
 
@@ -130,9 +130,10 @@
                 </div>
                 <br><br>
                 <h3 class="text-primary">About Bolt Manufacturer - Rotex Engineers</h3>
-                <p class="mb-4 pb-2">Hex Bolt is used to joining two unthreaded components together with the help of a nut. A Hex Bolted joint is made up of Hex Bolts. A Hex Bolted joint is formed by combining a Hex Bolt with a nut. A nut is used to tighten the grip between the flange and any other product that uses a Hex Bolt. Rotex Engineers is a high-quality manufacturer of Hex Bolt, screw, nut, washer, ring, and other fasteners. All of our Hex Bolt are compliant with International Quality Standards (IQS) and may be used anywhere in the world without any problem.</p>
-                <h3 class="text-primary">Supplying Hex Bolts to Following Domestic Cities</h3>
-                <p class="mb-4 pb-2">Rotex Engineers  is one of India’s major producers, exporters, stockist of Hex Bolts, due to its dependability and performance. We export two containers of Hex Bolts products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Hex Bolts at affordable prices with simple services.</p>
+                <p class="mb-4 pb-2 jt">Hex Bolt is used to joining two unthreaded components together with the help of a nut. A Hex Bolted joint is made up of Hex Bolts. A Hex Bolted joint is formed by combining a Hex Bolt with a nut. A nut is used to tighten the grip between the flange and any other product that uses a Hex Bolt. Rotex Engineers is a high-quality manufacturer of Hex Bolt, screw, nut, washer, ring, and other fasteners. All of our Hex Bolt are compliant with International Quality Standards (IQS) and may be used anywhere in the world without any problem.</p>
+                <h3 class="text-primary jt">Supplying Hex Bolts to Following Domestic Cities</h3>
+                <p class="mb-4 pb-2 jt">Rotex Engineers  is one of India’s major producers, exporters, stockist of Hex Bolts, due to its dependability and performance. We export two containers of Hex Bolts products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Hex Bolts at affordable prices with simple services.</p>
+                <div class="table-responsive">
                 <table class="table table-bordered">
                     <thead>
                         <th colspan="6"><center>Cities We Supply Hex Bolts products</center></th>
@@ -228,8 +229,10 @@
                         </tr>
                     </tbody>
                 </table>
+</div>
                 <h3 class="text-primary">Export Bolts products to Below Countries</h3>
-                <p class="mb-4 pb-2">Our high-quality Anchor Bolts and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading Anchor Bolts suppliers. Over 35 countries purchased our Anchor Bolts on a regular basis. We’ve supplied over 1000+ toners of the Anchor Bolts to India in the last seven years. Custom Anchor Bolts orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                <p class="mb-4 pb-2 jt">Our high-quality Anchor Bolts and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading Anchor Bolts suppliers. Over 35 countries purchased our Anchor Bolts on a regular basis. We’ve supplied over 1000+ toners of the Anchor Bolts to India in the last seven years. Custom Anchor Bolts orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                <div class="table-responsive">
                 <table class="table table-bordered">
                     <thead>
                         <th colspan="4"><center>Countries We Export our Anchor Bolts products</center></th>
@@ -273,6 +276,7 @@
                         </tr>
                     </tbody>
                 </table>
+               </div>
                 </div>
                 <div class="col-lg-3 about-text  wow fadeIn" data-wow-delay="0.5s">
                     <div class="p-lg-5 pe-lg-0">

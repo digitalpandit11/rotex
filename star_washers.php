@@ -22,13 +22,14 @@
         <div class="container about px-lg-0">
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-9 ps-lg-2" style="min-height: 400px;">
-                    <img class="mt-2" src="img/product/washers/1.star-washers.jpg" alt=""><br><br>
-                    <h3 class="text-primary">Star Washer Manufacturers, Exporter, and Stockist in India</h3>
-                    <p class="mb-4 pb-2">Rotex Engineers is one of the largest Star Washers Manufacturer in India. To manufacture high-quality Star Washers for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our company is a renowned stockist of many types of high-quality Star Washers for huge enterprises, businesses, and other industries. We supply and export a wide assortment of Star Washers in India and a few other countries. We have played a significant role in the development and growth of the Indian market.</p>
-                    <p class="mb-4 pb-2">The Star Washers are well-known for their dimensional perfection and exquisite quality, as well as their corrosion resistance. We have professional staff to ensure the quality of Star Washers throughout the manufacturing process, from raw material selection to processing, marketing, packaging, storage, and transportation. We have a large selection of Star Washer in stock and ready to ship. We take orders and manufacture according to the specifications of our customers. We are also the largest exporter of Fender Washers.</p>
+                    <img class=" img-fluid mt-2" src="img/product/washers/1.star-washers.jpg" alt=""><br><br>
+                    <h3 class="text-primary jt">Star Washer Manufacturers, Exporter, and Stockist in India</h3>
+                    <p class="mb-4 pb-2 jt">Rotex Engineers is one of the largest Star Washers Manufacturer in India. To manufacture high-quality Star Washers for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our company is a renowned stockist of many types of high-quality Star Washers for huge enterprises, businesses, and other industries. We supply and export a wide assortment of Star Washers in India and a few other countries. We have played a significant role in the development and growth of the Indian market.</p>
+                    <p class="mb-4 pb-2 jt">The Star Washers are well-known for their dimensional perfection and exquisite quality, as well as their corrosion resistance. We have professional staff to ensure the quality of Star Washers throughout the manufacturing process, from raw material selection to processing, marketing, packaging, storage, and transportation. We have a large selection of Star Washer in stock and ready to ship. We take orders and manufacture according to the specifications of our customers. We are also the largest exporter of Fender Washers.</p>
 
                     <br><br>
-                    <h3 class="text-primary">Specification of Star Washers :</h3>
+                    <h3 class="text-primary jt">Specification of Star Washers :</h3>
+                    <div class="table-responsvive">
                     <table class=" table table-bordered ">
                         <tbody>
                             <tr>
@@ -53,17 +54,18 @@
                             </tr>
                         </tbody>
                     </table>
+                </div>
                     <br><br>    
                     <div class="row">
                         <div class="col-lg-6">
-                            <h4 class="mb-2">Application & Uses Of Star Washer Exporter</h4>
+                            <h4 class="mb-2 jt">Application & Uses Of Star Washer Exporter</h4>
                             <ul>
-                                <li class="mb-2">Star Washer used in Petroleum Industry</li>
-                                <li class="mb-2">Star Washer used in Aerospace Industry</li>
-                                <li class="mb-2">Star Washer used in Chemical Industry</li>
-                                <li class="mb-2">Star Washer used in oil & Gas Industry</li>
-                                <li class="mb-2">Star Washer used in Nuclear Energy Sector</li>
-                                <li class="mb-2">Star Washer used in automotive industries</li>
+                                <li class="mb-2 jt">Star Washer used in Petroleum Industry</li>
+                                <li class="mb-2 jt">Star Washer used in Aerospace Industry</li>
+                                <li class="mb-2 jt">Star Washer used in Chemical Industry</li>
+                                <li class="mb-2 jt">Star Washer used in oil & Gas Industry</li>
+                                <li class="mb-2 jt">Star Washer used in Nuclear Energy Sector</li>
+                                <li class="mb-2 jt">Star Washer used in automotive industries</li>
                             </ul>
                         </div>
                         <div class="col-lg-6">
@@ -71,10 +73,11 @@
                         </div>
                     </div>
                     <br><br>
-                    <h3 class="text-primary">About Star Washer Manufacturer - Rotex Engineers</h3>
-                    <p class="mb-4 pb-2">A Star Washer is a thin plate (usually disk-shaped, but sometimes square) with a large hole (usually in the middle) that is used to distribute the load of a threaded fastener, such as a bolt or nut. We produce a wide range of Star Washers with varying sizes, shapes, thicknesses, and grades. All of our Star Washer Fasteners are compliant with International Quality Standards (IQS) and used anywhere in the world without any problem. Our Enterprises has a long history and a large number of satisfied customers all over the world.</p>
-                    <h3 class="text-primary">Supplying Star Washers to Following Domestic Cities</h3>
-                    <p class="mb-4 pb-2">Rotex Engineers is one of India’s major producers, exporters, stockist of Star Washers, due to its dependability and performance. We export two containers of Star Washers products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Star Washers at affordable prices with simple services.</p>
+                    <h3 class="text-primary jt">About Star Washer Manufacturer - Rotex Engineers</h3>
+                    <p class="mb-4 pb-2 jt">A Star Washer is a thin plate (usually disk-shaped, but sometimes square) with a large hole (usually in the middle) that is used to distribute the load of a threaded fastener, such as a bolt or nut. We produce a wide range of Star Washers with varying sizes, shapes, thicknesses, and grades. All of our Star Washer Fasteners are compliant with International Quality Standards (IQS) and used anywhere in the world without any problem. Our Enterprises has a long history and a large number of satisfied customers all over the world.</p>
+                    <h3 class="text-primary jt">Supplying Star Washers to Following Domestic Cities</h3>
+                    <p class="mb-4 pb-2 jt">Rotex Engineers is one of India’s major producers, exporters, stockist of Star Washers, due to its dependability and performance. We export two containers of Star Washers products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Star Washers at affordable prices with simple services.</p>
+                    <div class="table-responsive">
                     <table class="table table-bordered">
                         <thead>
                             <th colspan="6"><center>Cities We Supply Star Washer products</center></th>
@@ -170,8 +173,10 @@
                             </tr>
                         </tbody>
                     </table>
-                    <h3 class="text-primary">Export Star Washer products to Below Countries</h3>
-                    <p class="mb-4 pb-2">Our high-quality Star Washers and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading Star Washers exporter. Over 35 countries purchased our Star Washers on a regular basis. We’ve supplied over 1000+ toners of the Star Washers to India in the last seven years. Custom Star Washers orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                    </div>
+                    <h3 class="text-primary jt">Export Star Washer products to Below Countries</h3>
+                    <p class="mb-4 pb-2 jt">Our high-quality Star Washers and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading Star Washers exporter. Over 35 countries purchased our Star Washers on a regular basis. We’ve supplied over 1000+ toners of the Star Washers to India in the last seven years. Custom Star Washers orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                   <div class="table-responsive">
                     <table class="table table-bordered">
                         <thead>
                             <th colspan="4"><center>Countries We Export our Star Washer products</center></th>
@@ -216,6 +221,7 @@
                         </tbody>
                     </table>
                 </div>
+            </div>
                 <div class="col-lg-3 about-text  wow fadeIn" data-wow-delay="0.5s">
                     <div class="p-lg-5 pe-lg-0">
                         <div class="bg-primary mb-3" style="width: 60px; height: 2px;"></div>

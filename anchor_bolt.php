@@ -22,43 +22,43 @@
         <div class="container about px-lg-0">
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-9 ps-lg-2" style="min-height: 400px;">
-                <img class="mt-2" src="img/product/bolt/anchor-bolt-1.jpg" alt=""><br><br>
-                <h3 class="text-primary">Anchor Bolt Manufacturers, Exporter, and Stockist in India</h3>
-                <p class="mb-4 pb-2">Rotex Engineers is top Manufacturer of Anchor Bolt in India. We provides Anchor Bolt in a variety of sizes and shapes. Anchor Bolts can also be found in a variety of materials and grades. Each Anchor Bolt has different specification and use. We are also known as leading Anchor Bolts Manufacturer, Stockist & Exportor in India. To manufacture high-quality Anchor Bolts for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our qualitative range of Anchor Bolt is exclusively designed for several Bolts applications of various industries Such as Petroleum industry, Oil & Gas Industries, Chemical Processing industry etc.</p>
-                <p class="mb-4 pb-2">We have a large selection of Anchor Bolt in stock and ready to ship. We take orders and manufacture according to the requirement of our customers. we are India’s biggest manufacturer of larger diameter Anchor Bolt as well as fasteners. All of our Bolt are compliant with International Quality Standards (IQS) and may be used anywhere in the world without any problem. We also specialize in High tensile Hex Bolt.</p>
+                <img class="img-fluid mt-2" src="img/product/bolt/anchor-bolt-1.jpg" alt=""><br><br>
+                <h3 class="text-primary jt">Anchor Bolt Manufacturers, Exporter, and Stockist in India</h3>
+                <p class="mb-4 pb-2 jt">Rotex Engineers is top Manufacturer of Anchor Bolt in India. We provides Anchor Bolt in a variety of sizes and shapes. Anchor Bolts can also be found in a variety of materials and grades. Each Anchor Bolt has different specification and use. We are also known as leading Anchor Bolts Manufacturer, Stockist & Exportor in India. To manufacture high-quality Anchor Bolts for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our qualitative range of Anchor Bolt is exclusively designed for several Bolts applications of various industries Such as Petroleum industry, Oil & Gas Industries, Chemical Processing industry etc.</p>
+                <p class="mb-4 pb-2 jt">We have a large selection of Anchor Bolt in stock and ready to ship. We take orders and manufacture according to the requirement of our customers. we are India’s biggest manufacturer of larger diameter Anchor Bolt as well as fasteners. All of our Bolt are compliant with International Quality Standards (IQS) and may be used anywhere in the world without any problem. We also specialize in High tensile Hex Bolt.</p>
 
                 <br><br>
                 <h3 class="text-primary">Specification of Anchor  Bolt :</h3>
                 <ul>
                     <li>
-                    <p class="mb-2"><b>Anchor  Bolts Standard:</b> EU, IFI, CSN, Italian, ASME, British BS, Indian IS, ISO, DIN, Polish PN, SAE</p>
+                    <p class="mb-2 jt"><b>Anchor  Bolts Standard:</b> EU, IFI, CSN, Italian, ASME, British BS, Indian IS, ISO, DIN, Polish PN, SAE</p>
                     </li>
                     <li>
-                    <p class="mb-2"><b>Anchor  Bolts Sizes:</b> M2, M2.5, M3, M4, M5, M6, M8, M10, M12, M14, M16, M20, M24, M30, M36 to M160</p>
+                    <p class="mb-2 jt"><b>Anchor  Bolts Sizes:</b> M2, M2.5, M3, M4, M5, M6, M8, M10, M12, M14, M16, M20, M24, M30, M36 to M160</p>
                     </li>
                     <li>
-                    <p class="mb-2"><b>Anchor  Bolts Length:</b> 3/8 to 8″</p>
+                    <p class="mb-2 jt"><b>Anchor  Bolts Length:</b> 3/8 to 8″</p>
                     </li>
                     <li>
-                    <p class="mb-2"><b>Anchor  Bolts Materials:</b> High Tensile, Carbon Steel, Stainless Steel, Inconel Fasteners, Incoloy Fasteners, Hastelloy Fasteners, Monel Fasteners, Silicon Bronze, Phospher Bronze, Aluminium Bronze, Nickel, Brass, Copper, Copper Nickel, Nitronic, Nimonic, ASME, ASTM</p>
+                    <p class="mb-2 jt"><b>Anchor  Bolts Materials:</b> High Tensile, Carbon Steel, Stainless Steel, Inconel Fasteners, Incoloy Fasteners, Hastelloy Fasteners, Monel Fasteners, Silicon Bronze, Phospher Bronze, Aluminium Bronze, Nickel, Brass, Copper, Copper Nickel, Nitronic, Nimonic, ASME, ASTM</p>
                     </li>
                     <li>
-                    <p class="mb-2"><b>Anchor  Bolts Coating:</b> PTFE Coated Anchor Bolts, Hot Dip Galvanized Anchor Bolts, Yellow Zinc Plated Anchor Bolts, Blue Zinc Plated Anchor Bolts, Black Zinc Plated Anchor Bolts, Zinc Cobalt Plated Anchor Bolts, Aluminium Zinc Flake Coated Anchor Bolts, Black Phosphate Anchor Bolts, Zinc Plated Anchor Bolts, Nickel Plated Anchor Bolts</p>
+                    <p class="mb-2 jt"><b>Anchor  Bolts Coating:</b> PTFE Coated Anchor Bolts, Hot Dip Galvanized Anchor Bolts, Yellow Zinc Plated Anchor Bolts, Blue Zinc Plated Anchor Bolts, Black Zinc Plated Anchor Bolts, Zinc Cobalt Plated Anchor Bolts, Aluminium Zinc Flake Coated Anchor Bolts, Black Phosphate Anchor Bolts, Zinc Plated Anchor Bolts, Nickel Plated Anchor Bolts</p>
                     </li>
                     <li>
-                    <p class="mb-2"><b>High Tensile grades:</b> 8.8 Bolts Anchor Bolts, 10.9 Anchor Bolts, 12.9 Anchor Bolts, 14.9 Anchor Bolts</p>
+                    <p class="mb-2 jt"><b>High Tensile grades:</b> 8.8 Bolts Anchor Bolts, 10.9 Anchor Bolts, 12.9 Anchor Bolts, 14.9 Anchor Bolts</p>
                     </li>
                     <li>
-                    <p class="mb-2 "><b>Anchor  Bolts Forming:</b> Hot Forged Anchor Bolts & Cold Forged Anchor Bolts</p>
+                    <p class="mb-2 jt "><b>Anchor  Bolts Forming:</b> Hot Forged Anchor Bolts & Cold Forged Anchor Bolts</p>
                     </li>
                     <li>
-                    <p class="mb-2 "><b>Anchor  Bolts Sub Type:</b> Fully Threaded Anchor Bolts, Partial Threaded Anchor Bolts, Metric Anchor Bolts, Imperial Anchor Bolts</p>
+                    <p class="mb-2 jt "><b>Anchor  Bolts Sub Type:</b> Fully Threaded Anchor Bolts, Partial Threaded Anchor Bolts, Metric Anchor Bolts, Imperial Anchor Bolts</p>
                     </li>
                 </ul>
 
                 <br><br>
                 <h3 class="text-primary">Anchor Bolts Sizes & Standards</h3>
-
+                <div class="table-responsive">
                 <table class="table table-bordered">
                     <thead>
                         <th><center>Standards</center></th>
@@ -99,17 +99,18 @@
                         </tr>
                     </tbody>
                 </table>
+                 </div>
                 <br><br>
                 <div class="row">
                     <div class="col-lg-6">
                         <h4 class="mb-2">Application & Uses Of Anchor Bolt</h4>
                         <ul>
-                            <li class="mb-2">Anchor Bolt used in Petroleum Industry</li>
-                            <li class="mb-2">Anchor Bolt used in Aerospace Industry</li>
-                            <li class="mb-2">Anchor Bolt used in Chemical Industry</li>
-                            <li class="mb-2">Anchor Bolt used in oil & Gas Industry</li>
-                            <li class="mb-2">Anchor Bolt used in Nuclear Energy Sector</li>
-                            <li class="mb-2">Anchor Bolt used in automotive industries</li>
+                            <li class="mb-2 jt">Anchor Bolt used in Petroleum Industry</li>
+                            <li class="mb-2 jt">Anchor Bolt used in Aerospace Industry</li>
+                            <li class="mb-2 jt">Anchor Bolt used in Chemical Industry</li>
+                            <li class="mb-2 jt">Anchor Bolt used in oil & Gas Industry</li>
+                            <li class="mb-2 jt">Anchor Bolt used in Nuclear Energy Sector</li>
+                            <li class="mb-2 jt">Anchor Bolt used in automotive industries</li>
                         </ul>
                     </div>
                     <div class="col-lg-6">
@@ -117,10 +118,11 @@
                     </div>
                 </div>
                 <br><br>
-                <h3 class="text-primary">About Anchor Bolt Manufacturer - Rotex Engineers</h3>
-                <p class="mb-4 pb-2">Rotex Engineers manufactures and exports high-quality Anchor Bolt Fasteners all over the world. Anchor Bolts join structural and non-structural elements to concrete. Anchor Bolts (also known as fasteners), steel plates, and stiffeners are some of the components that can be used to make the connection. All of our Anchor Bolt are compliant with International Quality Standards (IQS) and may be used anywhere in the world without any problem.</p>
+                <h3 class="text-primary jt">About Anchor Bolt Manufacturer - Rotex Engineers</h3>
+                <p class="mb-4 pb-2 jt">Rotex Engineers manufactures and exports high-quality Anchor Bolt Fasteners all over the world. Anchor Bolts join structural and non-structural elements to concrete. Anchor Bolts (also known as fasteners), steel plates, and stiffeners are some of the components that can be used to make the connection. All of our Anchor Bolt are compliant with International Quality Standards (IQS) and may be used anywhere in the world without any problem.</p>
                 <h3 class="text-primary">Supplying Anchor Bolts to Following Domestic Cities</h3>
-                <p class="mb-4 pb-2">Rotex Engineers  is one of India’s major producers, exporters, stockist of Anchor Bolts, due to its dependability and performance. We export two containers of Anchor Bolts products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Anchor Bolts at affordable prices with simple services.</p>
+                <p class="mb-4 pb-2 jt">Rotex Engineers  is one of India’s major producers, exporters, stockist of Anchor Bolts, due to its dependability and performance. We export two containers of Anchor Bolts products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Anchor Bolts at affordable prices with simple services.</p>
+                <div class="table-responsive">
                 <table class="table table-bordered">
                     <thead>
                         <th colspan="6"><center>Cities We Supply Anchor Bolts products</center></th>
@@ -216,8 +218,10 @@
                         </tr>
                     </tbody>
                 </table>
+               </div>
                 <h3 class="text-primary">Export  Anchor Bolts products to Below Countries</h3>
-                <p class="mb-4 pb-2">Our high-quality Bolts and in-house processing capabilities have helped us establish ourselves as one of India's most promising and leading Bolts suppliers. Over 35 countries purchased our Bolts on a regular basis. We've supplied over 1000+ toners of the Bolts to India in the last seven years. Custom Bolts orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                <p class="mb-4 pb-2 jt">Our high-quality Bolts and in-house processing capabilities have helped us establish ourselves as one of India's most promising and leading Bolts suppliers. Over 35 countries purchased our Bolts on a regular basis. We've supplied over 1000+ toners of the Bolts to India in the last seven years. Custom Bolts orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                <div class="table-responsive"> 
                 <table class="table table-bordered">
                     <thead>
                         <th colspan="4"><center>Countries We Export our Bolts products</center></th>
@@ -261,6 +265,7 @@
                         </tr>
                     </tbody>
                 </table>
+                </div>
                 </div>
                 <div class="col-lg-3 about-text  wow fadeIn" data-wow-delay="0.5s">
                     <div class="p-lg-5 pe-lg-0">

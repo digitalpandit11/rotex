@@ -22,13 +22,14 @@
         <div class="container about px-lg-0">
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-9 ps-lg-2" style="min-height: 400px;" data-wow-delay="0.5s">
-                    <img class="mt-2" src="img/product/bolts-2.jpg" alt="" data-wow-delay="0.5s"><br><br>
-                    <h3 class="text-primary">Bolt Manufacturers, Exporter, and Stockist in India</h3>
-                    <p class="mb-4 pb-2">Rotex Engineers is one of the largest Bolt Manufacturer in India. It is a renowned supplier of many types of high-quality bolts for huge enterprises, businesses, and other industries. To manufacture high-quality bolts for our clients, we use the finest quality materials, precision, and cutting-edge technology. Bolt are manufactured in many locations of India. In India and a few other countries, we supply and export a wide assortment of Bolt.</p>
-                    <p class="mb-4 pb-2">We have a large selection of Bolt in stock and ready to ship. We take orders and manufacture according to the specifications of our customers. We are India's biggest manufacturer of larger diameter Bolt and nuts in high tensile and stainless steel grades, as well as fasteners. We also specialize in Nut fasteners.</p>
+                    <img class="img-fluid mt-2" src="img/product/bolts-2.jpg" alt="" data-wow-delay="0.5s"><br><br>
+                    <h3 class="text-primary jt">Bolt Manufacturers, Exporter, and Stockist in India</h3>
+                    <p class="mb-4 pb-2 jt">Rotex Engineers is one of the largest Bolt Manufacturer in India. It is a renowned supplier of many types of high-quality bolts for huge enterprises, businesses, and other industries. To manufacture high-quality bolts for our clients, we use the finest quality materials, precision, and cutting-edge technology. Bolt are manufactured in many locations of India. In India and a few other countries, we supply and export a wide assortment of Bolt.</p>
+                    <p class="mb-4 pb-2 jt">We have a large selection of Bolt in stock and ready to ship. We take orders and manufacture according to the specifications of our customers. We are India's biggest manufacturer of larger diameter Bolt and nuts in high tensile and stainless steel grades, as well as fasteners. We also specialize in Nut fasteners.</p>
 
                     <br><br>
-                    <h3 class="text-primary">Specification of Bolt :</h3>
+                    <h3 class="text-primary jt">Specification of Bolt :</h3>
+                    <div class="table-responsive">
                     <table class=" table table-bordered " data-wow-delay="0.5s">
                         <tbody>
                             <tr>
@@ -111,7 +112,7 @@
 
                         </tbody>
                     </table>
-                        
+                    </div>   
                     <h3 class="text-primary">Types of Bolts</h3>
                     <div class="row">
                         <div class="col-lg-3">
@@ -152,14 +153,14 @@
                     <br><br>
                     <div class="row">
                         <div class="col-lg-6">
-                            <h4 class="mb-2">Application & Uses Of Bolt Exporter</h4>
+                            <h4 class="mb-2 jt">Application & Uses Of Bolt Exporter</h4>
                             <ul>
-                                <li class="mb-2">Bolt used in Petroleum Industry</li>
-                                <li class="mb-2">Bolt used in Aerospace Industry</li>
-                                <li class="mb-2">Bolt used in Chemical Industry</li>
-                                <li class="mb-2">Bolt used in oil & Gas Industry</li>
-                                <li class="mb-2">Bolt used in Nuclear Energy Sector</li>
-                                <li class="mb-2">Bolt used in automotive industries</li>
+                                <li class="mb-2 jt">Bolt used in Petroleum Industry</li>
+                                <li class="mb-2 jt">Bolt used in Aerospace Industry</li>
+                                <li class="mb-2 jt">Bolt used in Chemical Industry</li>
+                                <li class="mb-2 jt">Bolt used in oil & Gas Industry</li>
+                                <li class="mb-2 jt">Bolt used in Nuclear Energy Sector</li>
+                                <li class="mb-2 jt">Bolt used in automotive industries</li>
                             </ul>
                         </div>
                         <div class="col-lg-6">
@@ -167,10 +168,11 @@
                         </div>
                     </div>
                     <br><br>
-                    <h3 class="text-primary">About Bolt Manufacturer - Rotex Engineers</h3>
-                    <p class="mb-4 pb-2">Bolt is used to joining two unthreaded components together with the help of a nut. A bolted joint is made up of bolts. A bolted joint is formed by combining a bolt with a nut. A nut is used to tighten the grip between the flange and any other product that uses a bolt. Rotex Engineers is a high-quality manufacturer of bolt, nut, washer, ring, and other fasteners. All of our Bolt are compliant with International Quality Standards (IQS) and may be used anywhere in the world without any problem.</p>
-                    <h3 class="text-primary">Supplying Bolts to Following Domestic Cities</h3>
-                    <p class="mb-4 pb-2">Rotex Engineers is one of India's major producers, exporters, stockist of Bolts, due to its dependability and performance. We export two containers of Bolts products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Bolts at affordable prices with simple services.</p>
+                    <h3 class="text-primary jt">About Bolt Manufacturer - Rotex Engineers</h3>
+                    <p class="mb-4 pb-2 jt">Bolt is used to joining two unthreaded components together with the help of a nut. A bolted joint is made up of bolts. A bolted joint is formed by combining a bolt with a nut. A nut is used to tighten the grip between the flange and any other product that uses a bolt. Rotex Engineers is a high-quality manufacturer of bolt, nut, washer, ring, and other fasteners. All of our Bolt are compliant with International Quality Standards (IQS) and may be used anywhere in the world without any problem.</p>
+                    <h3 class="text-primary jt">Supplying Bolts to Following Domestic Cities</h3>
+                    <p class="mb-4 pb-2 jt">Rotex Engineers is one of India's major producers, exporters, stockist of Bolts, due to its dependability and performance. We export two containers of Bolts products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Bolts at affordable prices with simple services.</p>
+                    <div class="table-responsive">
                     <table class="table table-bordered">
                         <thead>
                             <th colspan="6"><center>Cities We Supply Bolts products</center></th>
@@ -266,8 +268,10 @@
                             </tr>
                         </tbody>
                     </table>
-                    <h3 class="text-primary">Export Bolts products to Below Countries</h3>
-                    <p class="mb-4 pb-2">Our high-quality Bolts and in-house processing capabilities have helped us establish ourselves as one of India's most promising and leading Bolts suppliers. Over 35 countries purchased our Bolts on a regular basis. We've supplied over 1000+ toners of the Bolts to India in the last seven years. Custom Bolts orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                    </div>
+                    <h3 class="text-primary jt">Export Bolts products to Below Countries</h3>
+                    <p class="mb-4 pb-2 jt">Our high-quality Bolts and in-house processing capabilities have helped us establish ourselves as one of India's most promising and leading Bolts suppliers. Over 35 countries purchased our Bolts on a regular basis. We've supplied over 1000+ toners of the Bolts to India in the last seven years. Custom Bolts orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                    <div class="table-responsive">
                     <table class="table table-bordered">
                         <thead>
                             <th colspan="4"><center>Countries We Export our Bolts products</center></th>
@@ -311,6 +315,7 @@
                             </tr>
                         </tbody>
                     </table>
+                    </div>
                 </div>
                 <div class="col-lg-3 about-text  wow fadeIn" data-wow-delay="0.5s">
                     <div class="p-lg-5 pe-lg-0">

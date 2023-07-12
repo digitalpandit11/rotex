@@ -22,13 +22,14 @@
         <div class="container about px-lg-0">
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-12 ps-lg-4" style="min-height: 400px;">
-                    <center><img class="mt-2" src="img/product/materials/carbon-steel-fasteners.jpg" alt=""></center><br><br>
-                    <h3 class="text-primary">Carbon Steel Fasteners Manufacturers, Exporter, and Stockist in India</h3>
-                    <p class="mb-4 pb-2">Rotex Engineers is one of the largest Carbon Steel Fasteners Manufacturer in India. These fasteners are made available to a number of industries in a variety of standards and specifications in order to meet the needs of our valued customers. We also provide a comprehensive selection of Carbon Steel Fasteners such as Bolts, Nuts, Washers, Screws, and Threaded Rods. To manufacture high-quality Carbon Steel Fasteners for our clients, we use the finest quality materials, precision, and cutting-edge technology.</p>
-                    <p class="mb-4 pb-2">We have a large selection of Carbon Steel Fasteners in stock and ready to ship. We take orders and manufacture according to the specifications of our customers. In the production of the Carbon Steel Bolts, we use only the highest quality raw materials. It ensures high sturdiness, tensile strength, and damage tolerance. We also specialize in ASTM A193 Grade B16 Bolts.</p>
+                    <center><img class="img-fluid mt-2" src="img/product/materials/carbon-steel-fasteners.jpg" alt=""></center><br><br>
+                    <h3 class="text-primary jt">Carbon Steel Fasteners Manufacturers, Exporter, and Stockist in India</h3>
+                    <p class="mb-4 pb-2 jt">Rotex Engineers is one of the largest Carbon Steel Fasteners Manufacturer in India. These fasteners are made available to a number of industries in a variety of standards and specifications in order to meet the needs of our valued customers. We also provide a comprehensive selection of Carbon Steel Fasteners such as Bolts, Nuts, Washers, Screws, and Threaded Rods. To manufacture high-quality Carbon Steel Fasteners for our clients, we use the finest quality materials, precision, and cutting-edge technology.</p>
+                    <p class="mb-4 pb-2 jt">We have a large selection of Carbon Steel Fasteners in stock and ready to ship. We take orders and manufacture according to the specifications of our customers. In the production of the Carbon Steel Bolts, we use only the highest quality raw materials. It ensures high sturdiness, tensile strength, and damage tolerance. We also specialize in ASTM A193 Grade B16 Bolts.</p>
 
                     <br><br>
-                    <h3 class="text-primary">Specification of Carbon Steel Fasteners</h3>
+                    <h3 class="text-primary jt">Specification of Carbon Steel Fasteners</h3>
+                    <div class="table-responsive">
                     <table class=" table table-bordered ">
                         <tbody>
                             <tr>
@@ -55,8 +56,10 @@
                             </tr>
                         </tbody>
                     </table>
+                    </div>
                     <br><br>
-                    <h3 class="text-primary">ASTM A193 Grade B16 Bolts Mechanical Properties</h3>
+                    <h3 class="text-primary jt">ASTM A193 Grade B16 Bolts Mechanical Properties</h3>
+                    <div class="table-responsive">
                     <table class=" table table-bordered ">
                         <tbody>
                             <tr>
@@ -155,19 +158,19 @@
                             
                         </tbody>
                     </table>
-                        
+                </div>  
                     
                     <br><br>    
                     <div class="row">
                         <div class="col-lg-6">
-                            <h4 class="mb-2">Application & Uses Of Carbon Steel Fastener</h4>
+                            <h4 class="mb-2 jt">Application & Uses Of Carbon Steel Fastener</h4>
                             <ul>
-                                <li class="mb-2">Carbon Steel Fastener used in Petroleum Industry</li>
-                                <li class="mb-2">Carbon Steel Fastener used in Aerospace Industry</li>
-                                <li class="mb-2">Carbon Steel Fastener used in Chemical Industry</li>
-                                <li class="mb-2">Carbon Steel Fastener used in oil & Gas Industry</li>
-                                <li class="mb-2">Carbon Steel Fastener used in Nuclear Energy Sector</li>
-                                <li class="mb-2">Carbon Steel Fastener used in automotive industries</li>
+                                <li class="mb-2 jt">Carbon Steel Fastener used in Petroleum Industry</li>
+                                <li class="mb-2 jt">Carbon Steel Fastener used in Aerospace Industry</li>
+                                <li class="mb-2 jt">Carbon Steel Fastener used in Chemical Industry</li>
+                                <li class="mb-2 jt">Carbon Steel Fastener used in oil & Gas Industry</li>
+                                <li class="mb-2 jt">Carbon Steel Fastener used in Nuclear Energy Sector</li>
+                                <li class="mb-2 jt">Carbon Steel Fastener used in automotive industries</li>
                             </ul>
                         </div>
                         <div class="col-lg-6">
@@ -175,10 +178,11 @@
                         </div>
                     </div>
                     <br><br>
-                    <h3 class="text-primary">About Carbon Steel Fastener Manufacturer - Rotex Engineers</h3>
-                    <p class="mb-4 pb-2">Carbon Steel Socket Screw come in a variety of finishes such as mirror buffed, chrome plating, hot-dip galvanizing, and zinc plating. It has great hardness and strength. It has excellent resistance to both stress corrosion cracking and general corrosion. All of our Carbon Steel Fastener are compliant with International Quality Standards (IQS) and may be used anywhere in the world without any problem.</p>
-                    <h3 class="text-primary">Supplying Carbon Steel Fastener to Following Domestic Cities</h3>
-                    <p class="mb-4 pb-2">Rotex Engineers is one of India’s major producers, exporters, stockist of Carbon Steel Fasteners, due to its dependability and performance. We export two containers of Carbon Steel Fasteners products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Carbon Steel Fasteners at affordable prices with simple services.</p>
+                    <h3 class="text-primary jt">About Carbon Steel Fastener Manufacturer - Rotex Engineers</h3>
+                    <p class="mb-4 pb-2 jt">Carbon Steel Socket Screw come in a variety of finishes such as mirror buffed, chrome plating, hot-dip galvanizing, and zinc plating. It has great hardness and strength. It has excellent resistance to both stress corrosion cracking and general corrosion. All of our Carbon Steel Fastener are compliant with International Quality Standards (IQS) and may be used anywhere in the world without any problem.</p>
+                    <h3 class="text-primary jt">Supplying Carbon Steel Fastener to Following Domestic Cities</h3>
+                    <p class="mb-4 pb-2 jt">Rotex Engineers is one of India’s major producers, exporters, stockist of Carbon Steel Fasteners, due to its dependability and performance. We export two containers of Carbon Steel Fasteners products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Carbon Steel Fasteners at affordable prices with simple services.</p>
+                    <div class="table-responsive">
                     <table class="table table-bordered">
                         <thead>
                             <th colspan="6"><center>Cities We Supply Carbon Steel Fastener products</center></th>
@@ -274,8 +278,10 @@
                             </tr>
                         </tbody>
                     </table>
-                    <h3 class="text-primary">Export Carbon Steel Fasteners products to Below Countries</h3>
-                    <p class="mb-4 pb-2">Our high-quality Carbon Steel Fasteners and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading Carbon Steel Fasteners suppliers. Over 35 countries purchased our Carbon Steel Fasteners on a regular basis. We’ve supplied over 1000+ toners of the Carbon Steel Fasteners to India in the last seven years. Custom Carbon Steel Fasteners orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                    </div>
+                    <h3 class="text-primary jt">Export Carbon Steel Fasteners products to Below Countries</h3>
+                    <p class="mb-4 pb-2 jt">Our high-quality Carbon Steel Fasteners and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading Carbon Steel Fasteners suppliers. Over 35 countries purchased our Carbon Steel Fasteners on a regular basis. We’ve supplied over 1000+ toners of the Carbon Steel Fasteners to India in the last seven years. Custom Carbon Steel Fasteners orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                    <div class="table-responsive">
                     <table class="table table-bordered">
                         <thead>
                             <th colspan="4"><center>Countries We Export our Carbon Steel Fasteners products</center></th>
@@ -319,6 +325,7 @@
                             </tr>
                         </tbody>
                     </table>
+                </div>
                 </div>
             </div>
         </div>

@@ -4,7 +4,7 @@
             <div class="row g-5">
                 <div class="col-lg-4 col-md-6">
                     <h5 class="text-light mb-4">Address</h5>
-                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>1 & 2, Rajgurunagar Industrial Estate, T Block, Plot No. 106/ 2, M. I. D. C, Bhosari, Pune - 411 026, Maharashtra</p>
+                    <p class="mb-2 jt"><i class="fa fa-map-marker-alt me-3"></i>1 & 2, Rajgurunagar Industrial Estate, T Block, Plot No. 106/ 2, M. I. D. C, Bhosari, Pune - 411 026, Maharashtra</p>
                     <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>91 9850237399</p>
                     <p class="mb-2"><i class="fa fa-envelope me-3"></i>rotexengineers@gmail.com</p>
                     <div class="d-flex pt-2">
@@ -33,7 +33,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h5 class="text-light mb-4">About Us</h5>
-                    <p class="mb-2">Established in the year 1990 at Pune, Maharashtra, We “Rotex Engineers” are a Sole Proprietorship based firm, engaged as the foremost Manufacturer And Wholesaler of Flash Dryer, …  <a href="about.php">Read More</a></p>
+                    <p class="mb-2 jt">Established in the year 1990 at Pune, Maharashtra, We “Rotex Engineers” are a Sole Proprietorship based firm, engaged as the foremost Manufacturer And Wholesaler of Flash Dryer, …  <a href="about.php">Read More</a></p>
                 </div>
                 
             </div>

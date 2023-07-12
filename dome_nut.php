@@ -22,13 +22,14 @@
         <div class="container about px-lg-0">
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-9 ps-lg-2" style="min-height: 400px;">
-                    <img class="mt-2" src="img/product/nut/dome-nut-manufacturer-1.jpg" alt=""><br><br>
-                    <h3 class="text-primary">Dome Nut Manufacturers, Exporter, and Stockist in India</h3>
-                    <p class="mb-4 pb-2">Rotex Engineers is one of the largest Dome Nut Manufacturer in India. To manufacture high-quality Dome Nuts for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our company is a renowned stockist of many types of high-quality Dome Nuts for huge enterprises, businesses, and other industries. We supply and export a wide assortment of Dome Nut in India and a few other countries. We have played a significant role in the development and growth of the Indian market.</p>
-                    <p class="mb-4 pb-2">The Dome Nuts are well-known for their dimensional perfection and exquisite quality, as well as their corrosion resistance. We have professional staff to ensure the quality of Hexagonal Nut throughout the manufacturing process, from raw material selection to processing, marketing, packaging, storage, and transportation. We have a large selection of Dome Nut in stock and ready to ship. We take orders and manufacture according to the specifications of our customers. We are also the largest exporter of Weld Nuts.</p>
+                    <img class="img-fluid mt-2" src="img/product/nut/dome-nut-manufacturer-1.jpg" alt=""><br><br>
+                    <h3 class="text-primary jt">Dome Nut Manufacturers, Exporter, and Stockist in India</h3>
+                    <p class="mb-4 pb-2 jt">Rotex Engineers is one of the largest Dome Nut Manufacturer in India. To manufacture high-quality Dome Nuts for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our company is a renowned stockist of many types of high-quality Dome Nuts for huge enterprises, businesses, and other industries. We supply and export a wide assortment of Dome Nut in India and a few other countries. We have played a significant role in the development and growth of the Indian market.</p>
+                    <p class="mb-4 pb-2 jt">The Dome Nuts are well-known for their dimensional perfection and exquisite quality, as well as their corrosion resistance. We have professional staff to ensure the quality of Hexagonal Nut throughout the manufacturing process, from raw material selection to processing, marketing, packaging, storage, and transportation. We have a large selection of Dome Nut in stock and ready to ship. We take orders and manufacture according to the specifications of our customers. We are also the largest exporter of Weld Nuts.</p>
 
                     <br><br>
-                    <h3 class="text-primary">Specification of Dome Nut :</h3>
+                    <h3 class="text-primary jt">Specification of Dome Nut :</h3>
+                    <div class="table-responsive">
                     <table class=" table table-bordered ">
                         <tbody>
                             <tr>
@@ -83,17 +84,18 @@
                             
                         </tbody>
                     </table>
+                    </div>
                     <br><br>
                     <div class="row">
                         <div class="col-lg-6">
-                            <h4 class="mb-2">Application & Uses Of Dome Nut Exporter</h4>
+                            <h4 class="mb-2 jt">Application & Uses Of Dome Nut Exporter</h4>
                             <ul>
-                                <li class="mb-2">Dome Nut used in Petroleum Industry</li>
-                                <li class="mb-2">Dome Nut used in Aerospace Industry</li>
-                                <li class="mb-2">Dome Nut used in Chemical Industry</li>
-                                <li class="mb-2">Dome Nut used in oil & Gas Industry</li>
-                                <li class="mb-2">Dome Nut used in Nuclear Energy Sector</li>
-                                <li class="mb-2">Dome Nut used in automotive industries</li>
+                                <li class="mb-2 jt">Dome Nut used in Petroleum Industry</li>
+                                <li class="mb-2 jt">Dome Nut used in Aerospace Industry</li>
+                                <li class="mb-2 jt">Dome Nut used in Chemical Industry</li>
+                                <li class="mb-2 jt">Dome Nut used in oil & Gas Industry</li>
+                                <li class="mb-2 jt">Dome Nut used in Nuclear Energy Sector</li>
+                                <li class="mb-2 jt">Dome Nut used in automotive industries</li>
                             </ul>
                         </div>
                         <div class="col-lg-6">
@@ -101,10 +103,11 @@
                         </div>
                     </div>
                     <br><br>
-                    <h3 class="text-primary">About Dome Nut Manufacturer - Rotex Engineers</h3>
-                    <p class="mb-4 pb-2">Dome Nuts cover the threaded end of a fastener meaning that they are especially suitable for when a Nut is used in applications where the aesthetics matter. We produce a wide range of Dome Nuts with varying sizes, shapes, thicknesses, and grades. All of our Dome Nuts are compliant with International Quality Standards (IQS) and used anywhere in the world without any problem. Our Enterprises has a long history and a large number of satisfied customers all over the world.</p>
-                    <h3 class="text-primary">Supplying Dome Nut to Following Domestic Cities</h3>
-                    <p class="mb-4 pb-2">Rotex Engineers is one of India’s major producers, exporters, stockist of Dome Nuts, due to its dependability and performance. We export two containers of Dome Nuts products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Dome Nuts at affordable prices with simple services.</p>
+                    <h3 class="text-primary jt">About Dome Nut Manufacturer - Rotex Engineers</h3>
+                    <p class="mb-4 pb-2 jt">Dome Nuts cover the threaded end of a fastener meaning that they are especially suitable for when a Nut is used in applications where the aesthetics matter. We produce a wide range of Dome Nuts with varying sizes, shapes, thicknesses, and grades. All of our Dome Nuts are compliant with International Quality Standards (IQS) and used anywhere in the world without any problem. Our Enterprises has a long history and a large number of satisfied customers all over the world.</p>
+                    <h3 class="text-primary jt">Supplying Dome Nut to Following Domestic Cities</h3>
+                    <p class="mb-4 pb-2 jt">Rotex Engineers is one of India’s major producers, exporters, stockist of Dome Nuts, due to its dependability and performance. We export two containers of Dome Nuts products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Dome Nuts at affordable prices with simple services.</p>
+                    <div class="table-responsive">
                     <table class="table table-bordered">
                         <thead>
                             <th colspan="6"><center>Cities We Supply Dome Nut products</center></th>
@@ -200,8 +203,10 @@
                             </tr>
                         </tbody>
                     </table>
-                    <h3 class="text-primary">Export Dome Nut products to Below Countries</h3>
-                    <p class="mb-4 pb-2">Our high-quality Hexagonal Nut and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading Dome Nuts exporter. Over 35 countries purchased our Dome Nuts on a regular basis. We’ve supplied over 1000+ toners of the Dome Nuts to India in the last seven years. Custom Dome Nuts orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                    </div>
+                    <h3 class="text-primary jt">Export Dome Nut products to Below Countries</h3>
+                    <p class="mb-4 pb-2 jt">Our high-quality Hexagonal Nut and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading Dome Nuts exporter. Over 35 countries purchased our Dome Nuts on a regular basis. We’ve supplied over 1000+ toners of the Dome Nuts to India in the last seven years. Custom Dome Nuts orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                    <div class="table-responsive">
                     <table class="table table-bordered">
                         <thead>
                             <th colspan="4"><center>Countries We Export our Dome Nut products</center></th>
@@ -246,6 +251,7 @@
                         </tbody>
                     </table>
                 </div>
+                  </div>
                 <div class="col-lg-3 about-text  wow fadeIn" data-wow-delay="0.5s">
                     <div class="p-lg-5 pe-lg-0">
                         <div class="bg-primary mb-3" style="width: 60px; height: 2px;"></div>

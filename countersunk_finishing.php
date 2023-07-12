@@ -22,13 +22,14 @@
         <div class="container about px-lg-0">
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-9 ps-lg-2" style="min-height: 400px;">
-                    <img class="mt-2" src="img/product/washers/1.countersunk-finishing-washer.jpg" alt=""><br><br>
-                    <h3 class="text-primary">Countersunk Finishing Washer Manufacturers, Exporter, and Stockist in India</h3>
-                    <p class="mb-4 pb-2">Rotex Engineers is one of the largest Countersunk Finishing Washers Manufacturer in India. To manufacture high-quality Countersunk Finishing Washers for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our company is a renowned stockist of many types of high-quality Countersunk Finishing Washers for huge enterprises, businesses, and other industries. We supply and export a wide assortment of Countersunk Finishing Washers in India and a few other countries. We have played a significant role in the development and growth of the Indian market.</p>
-                    <p class="mb-4 pb-2">The Countersunk Finishing Washers are well-known for their dimensional perfection and exquisite quality, as well as their corrosion resistance. We have professional staff to ensure the quality of Countersunk Finishing Washers throughout the manufacturing process, from raw material selection to processing, marketing, packaging, storage, and transportation. We have a large selection of Countersunk Finishing Washer in stock and ready to ship. We take orders and manufacture according to the specifications of our customers. We are also the largest exporter of Fender Washers.</p>
+                    <img class=" img-fluid mt-2" src="img/product/washers/1.countersunk-finishing-washer.jpg" alt=""><br><br>
+                    <h3 class="text-primary jt">Countersunk Finishing Washer Manufacturers, Exporter, and Stockist in India</h3>
+                    <p class="mb-4 pb-2 jt">Rotex Engineers is one of the largest Countersunk Finishing Washers Manufacturer in India. To manufacture high-quality Countersunk Finishing Washers for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our company is a renowned stockist of many types of high-quality Countersunk Finishing Washers for huge enterprises, businesses, and other industries. We supply and export a wide assortment of Countersunk Finishing Washers in India and a few other countries. We have played a significant role in the development and growth of the Indian market.</p>
+                    <p class="mb-4 pb-2 jt">The Countersunk Finishing Washers are well-known for their dimensional perfection and exquisite quality, as well as their corrosion resistance. We have professional staff to ensure the quality of Countersunk Finishing Washers throughout the manufacturing process, from raw material selection to processing, marketing, packaging, storage, and transportation. We have a large selection of Countersunk Finishing Washer in stock and ready to ship. We take orders and manufacture according to the specifications of our customers. We are also the largest exporter of Fender Washers.</p>
 
                     <br><br>
-                    <h3 class="text-primary">Specification of Countersunk Finishing Washers :</h3>
+                    <h3 class="text-primary jt">Specification of Countersunk Finishing Washers :</h3>
+                    <div class="table-responsive">
                     <table class=" table table-bordered ">
                         <tbody>
                             <tr>
@@ -53,17 +54,18 @@
                             </tr>
                         </tbody>
                     </table>
+                    </div>
                     <br><br>    
                     <div class="row">
                         <div class="col-lg-6">
-                            <h4 class="mb-2">Application & Uses Of Countersunk Finishing Washer Exporter</h4>
+                            <h4 class="mb-2 jt">Application & Uses Of Countersunk Finishing Washer Exporter</h4>
                             <ul>
-                                <li class="mb-2">Countersunk Finishing Washer used in Petroleum Industry</li>
-                                <li class="mb-2">Countersunk Finishing Washer used in Aerospace Industry</li>
-                                <li class="mb-2">Countersunk Finishing Washer used in Chemical Industry</li>
-                                <li class="mb-2">Countersunk Finishing Washer used in oil & Gas Industry</li>
-                                <li class="mb-2">Countersunk Finishing Washer used in Nuclear Energy Sector</li>
-                                <li class="mb-2">Countersunk Finishing Washer used in automotive industries</li>
+                                <li class="mb-2 jt">Countersunk Finishing Washer used in Petroleum Industry</li>
+                                <li class="mb-2 jt">Countersunk Finishing Washer used in Aerospace Industry</li>
+                                <li class="mb-2 jt">Countersunk Finishing Washer used in Chemical Industry</li>
+                                <li class="mb-2 jt">Countersunk Finishing Washer used in oil & Gas Industry</li>
+                                <li class="mb-2 jt">Countersunk Finishing Washer used in Nuclear Energy Sector</li>
+                                <li class="mb-2 jt">Countersunk Finishing Washer used in automotive industries</li>
                             </ul>
                         </div>
                         <div class="col-lg-6">
@@ -71,10 +73,11 @@
                         </div>
                     </div>
                     <br><br>
-                    <h3 class="text-primary">About Countersunk Finishing Washer Manufacturer - Rotex Engineers</h3>
-                    <p class="mb-4 pb-2">A Countersunk Finishing Washer is a thin plate (usually disk-shaped, but sometimes square) with a large hole (usually in the middle) that is used to distribute the load of a threaded fastener, such as a bolt or nut. We produce a wide range of Countersunk Finishing Washers with varying sizes, shapes, thicknesses, and grades. All of our Countersunk Finishing Washer Fasteners are compliant with International Quality Standards (IQS) and used anywhere in the world without any problem. Our Enterprises has a long history and a large number of satisfied customers all over the world.</p>
-                    <h3 class="text-primary">Supplying Countersunk Finishing Washers to Following Domestic Cities</h3>
-                    <p class="mb-4 pb-2">Rotex Engineers is one of India’s major producers, exporters, stockist of Countersunk Finishing Washers, due to its dependability and performance. We export two containers of Countersunk Finishing Washers products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Countersunk Finishing Washers at affordable prices with simple services.</p>
+                    <h3 class="text-primary jt">About Countersunk Finishing Washer Manufacturer - Rotex Engineers</h3>
+                    <p class="mb-4 pb-2 jt">A Countersunk Finishing Washer is a thin plate (usually disk-shaped, but sometimes square) with a large hole (usually in the middle) that is used to distribute the load of a threaded fastener, such as a bolt or nut. We produce a wide range of Countersunk Finishing Washers with varying sizes, shapes, thicknesses, and grades. All of our Countersunk Finishing Washer Fasteners are compliant with International Quality Standards (IQS) and used anywhere in the world without any problem. Our Enterprises has a long history and a large number of satisfied customers all over the world.</p>
+                    <h3 class="text-primary jt">Supplying Countersunk Finishing Washers to Following Domestic Cities</h3>
+                    <p class="mb-4 pb-2 jt">Rotex Engineers is one of India’s major producers, exporters, stockist of Countersunk Finishing Washers, due to its dependability and performance. We export two containers of Countersunk Finishing Washers products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Countersunk Finishing Washers at affordable prices with simple services.</p>
+                    <div class="table-responsive">
                     <table class="table table-bordered">
                         <thead>
                             <th colspan="6"><center>Cities We Supply Countersunk Finishing Washer products</center></th>
@@ -170,8 +173,10 @@
                             </tr>
                         </tbody>
                     </table>
-                    <h3 class="text-primary">Export Countersunk Finishing Washer products to Below Countries</h3>
-                    <p class="mb-4 pb-2">Our high-quality Countersunk Finishing Washers and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading Countersunk Finishing Washers exporter. Over 35 countries purchased our Countersunk Finishing Washers on a regular basis. We’ve supplied over 1000+ toners of the Countersunk Finishing Washers to India in the last seven years. Custom Countersunk Finishing Washers orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                     </div>
+                    <h3 class="text-primary jt">Export Countersunk Finishing Washer products to Below Countries</h3>
+                    <p class="mb-4 pb-2 jt">Our high-quality Countersunk Finishing Washers and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading Countersunk Finishing Washers exporter. Over 35 countries purchased our Countersunk Finishing Washers on a regular basis. We’ve supplied over 1000+ toners of the Countersunk Finishing Washers to India in the last seven years. Custom Countersunk Finishing Washers orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                    <div class="table-responsive">
                     <table class="table table-bordered">
                         <thead>
                             <th colspan="4"><center>Countries We Export our Countersunk Finishing Washer products</center></th>
@@ -215,6 +220,7 @@
                             </tr>
                         </tbody>
                     </table>
+                </div>
                 </div>
                 <div class="col-lg-3 about-text  wow fadeIn" data-wow-delay="0.5s">
                     <div class="p-lg-5 pe-lg-0">

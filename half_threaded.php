@@ -22,13 +22,14 @@
         <div class="container about px-lg-0">
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-9 ps-lg-2" style="min-height: 400px;">
-                    <img class="mt-2" src="img/product/threaded/1.full-threaded-stud.jpg" alt=""><br><br>
-                    <h3 class="text-primary">Half threaded Stud Manufacturers, Exporter, and Stockist in India</h3>
-                    <p class="mb-4 pb-2">Rotex Engineers is one of the largest Half Threaded Stud Manufacturer in India. To manufacture high-quality Half Threaded Studs for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our company is a renowned stockist of many types of high-quality Half Threaded Studs for huge enterprises, businesses, and other industries. We supply and export a wide assortment of Half Threaded Stud in India and a few other countries. We have played a significant role in the development and growth of the Indian market.</p>
-                    <p class="mb-4 pb-2">The Half Threaded Studs are well-known for their dimensional perfection and exquisite quality, as well as their corrosion resistance. We have professional staff to ensure the quality of Half Threaded Studs throughout the manufacturing process, from raw material selection to processing, marketing, packaging, storage, and transportation. We have a large selection of Half Threaded Stud in stock and ready to ship. We take orders and manufacture according to the specifications of our customers. We are also the largest exporter of Washers.</p>
+                    <img class=" img-fluid mt-2" src="img/product/threaded/1.full-threaded-stud.jpg" alt=""><br><br>
+                    <h3 class="text-primary jt">Half threaded Stud Manufacturers, Exporter, and Stockist in India</h3>
+                    <p class="mb-4 pb-2 jt">Rotex Engineers is one of the largest Half Threaded Stud Manufacturer in India. To manufacture high-quality Half Threaded Studs for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our company is a renowned stockist of many types of high-quality Half Threaded Studs for huge enterprises, businesses, and other industries. We supply and export a wide assortment of Half Threaded Stud in India and a few other countries. We have played a significant role in the development and growth of the Indian market.</p>
+                    <p class="mb-4 pb-2 jt">The Half Threaded Studs are well-known for their dimensional perfection and exquisite quality, as well as their corrosion resistance. We have professional staff to ensure the quality of Half Threaded Studs throughout the manufacturing process, from raw material selection to processing, marketing, packaging, storage, and transportation. We have a large selection of Half Threaded Stud in stock and ready to ship. We take orders and manufacture according to the specifications of our customers. We are also the largest exporter of Washers.</p>
 
                     <br><br>
-                    <h3 class="text-primary">Specification of Half Threaded Rod :</h3>
+                    <h3 class="text-primary jt">Specification of Half Threaded Rod :</h3>
+                    <div class="table-responsive">
                     <table class=" table table-bordered ">
                         <tbody>
                             <tr>
@@ -45,19 +46,19 @@
                             </tr>
                         </tbody>
                     </table>
-                        
+                    </div>        
                     
                     <br><br>
                     <div class="row">
                         <div class="col-lg-6">
-                            <h4 class="mb-2">Application & Uses Of Half Threaded Rod Exporter</h4>
+                            <h4 class="mb-2 jt">Application & Uses Of Half Threaded Rod Exporter</h4>
                             <ul>
-                                <li class="mb-2">Half Threaded Rod used in Petroleum Industry</li>
-                                <li class="mb-2">Half Threaded Rod used in Aerospace Industry</li>
-                                <li class="mb-2">Half Threaded Rod used in Chemical Industry</li>
-                                <li class="mb-2">Half Threaded Rod used in oil & Gas Industry</li>
-                                <li class="mb-2">Half Threaded Rod used in Nuclear Energy Sector</li>
-                                <li class="mb-2">Half Threaded Rod used in automotive industries</li>
+                                <li class="mb-2 jt">Half Threaded Rod used in Petroleum Industry</li>
+                                <li class="mb-2 jt">Half Threaded Rod used in Aerospace Industry</li>
+                                <li class="mb-2 jt">Half Threaded Rod used in Chemical Industry</li>
+                                <li class="mb-2 jt">Half Threaded Rod used in oil & Gas Industry</li>
+                                <li class="mb-2 jt">Half Threaded Rod used in Nuclear Energy Sector</li>
+                                <li class="mb-2 jt">Half Threaded Rod used in automotive industries</li>
                             </ul>
                         </div>
                         <div class="col-lg-6">
@@ -65,10 +66,11 @@
                         </div>
                     </div>
                     <br><br>
-                    <h3 class="text-primary">About Half Threaded Rod Manufacturer - Rotex Engineers</h3>
-                    <p class="mb-4 pb-2">A Half Threaded Stud, also known as a stud, is a relatively long rod with threaded ends and a thread that may run the length of the rod. We produce a wide range of Half Threaded Studs with varying sizes, shapes, thicknesses, and grades. All of our Half Threaded Stud Fasteners are compliant with International Quality Standards (IQS) and used anywhere in the world without any problem. Our Enterprises has a long history and a large number of satisfied customers all over the world.</p>
-                    <h3 class="text-primary">Supplying Half Threaded Rod to Following Domestic Cities</h3>
-                    <p class="mb-4 pb-2">Rotex Engineers is one of India’s major producers, exporters, stockist of Half Threaded Studs, due to its dependability and performance. We export two containers of Half Threaded Studs products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Half Threaded Studs at affordable prices with simple services.</p>
+                    <h3 class="text-primary jt">About Half Threaded Rod Manufacturer - Rotex Engineers</h3>
+                    <p class="mb-4 pb-2 jt">A Half Threaded Stud, also known as a stud, is a relatively long rod with threaded ends and a thread that may run the length of the rod. We produce a wide range of Half Threaded Studs with varying sizes, shapes, thicknesses, and grades. All of our Half Threaded Stud Fasteners are compliant with International Quality Standards (IQS) and used anywhere in the world without any problem. Our Enterprises has a long history and a large number of satisfied customers all over the world.</p>
+                    <h3 class="text-primary jt">Supplying Half Threaded Rod to Following Domestic Cities</h3>
+                    <p class="mb-4 pb-2 jt">Rotex Engineers is one of India’s major producers, exporters, stockist of Half Threaded Studs, due to its dependability and performance. We export two containers of Half Threaded Studs products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Half Threaded Studs at affordable prices with simple services.</p>
+                    <div class="table-responsive">
                     <table class="table table-bordered">
                         <thead>
                             <th colspan="6"><center>Cities We Supply Full Threaded Rods products</center></th>
@@ -164,8 +166,10 @@
                             </tr>
                         </tbody>
                     </table>
-                    <h3 class="text-primary">Export Half Threaded Rods products to Below Countries</h3>
-                    <p class="mb-4 pb-2">Our high-quality Half Threaded Studs and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading Half Threaded Studs exporter. Over 35 countries purchased our Half Threaded Studs on a regular basis. We’ve supplied over 1000+ toners of the Half Threaded Studs to India in the last seven years. Custom Half Threaded Studs orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                </div>
+                    <h3 class="text-primary jt">Export Half Threaded Rods products to Below Countries</h3>
+                    <p class="mb-4 pb-2 jt">Our high-quality Half Threaded Studs and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading Half Threaded Studs exporter. Over 35 countries purchased our Half Threaded Studs on a regular basis. We’ve supplied over 1000+ toners of the Half Threaded Studs to India in the last seven years. Custom Half Threaded Studs orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                    <div class="table-responsive">
                     <table class="table table-bordered">
                         <thead>
                             <th colspan="4"><center>Countries We Export our Half Threaded Rods products</center></th>
@@ -209,6 +213,7 @@
                             </tr>
                         </tbody>
                     </table>
+                </div>
                 </div>
                 <div class="col-lg-3 about-text  wow fadeIn" data-wow-delay="0.5s">
                     <div class="p-lg-5 pe-lg-0">

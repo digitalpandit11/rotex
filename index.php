@@ -47,7 +47,7 @@
                         <div class="bg-primary mb-3" style="width: 60px; height: 2px;"></div>
                         <h4 class="text-primary mb-3">Welcome to Rotex Engineers</h4>
                         <h1 class="display-5 mb-4" style="color:white;">30 Years Experience</h1>
-                        <p class="mb-4 pb-2">Established in the year 1990 at Pune, Maharashtra, We “Rotex Engineers” are a Sole Proprietorship based firm, engaged as the foremost Manufacturer And Wholesaler of Flash Dryer, Heat Press Machine, Screen Printing Aluminium Frame, etc. Our products are high in demand due to their premium quality and affordable prices. Furthermore, we ensure to timely deliver these products to our clients, through this, we have gained a huge clients base in the market.</p>
+                        <p class="mb-4 pb-2 jt">Established in the year 1990 at Pune, Maharashtra, We “Rotex Engineers” are a Sole Proprietorship based firm, engaged as the foremost Manufacturer And Wholesaler of Flash Dryer, Heat Press Machine, Screen Printing Aluminium Frame, etc. Our products are high in demand due to their premium quality and affordable prices. Furthermore, we ensure to timely deliver these products to our clients, through this, we have gained a huge clients base in the market.</p>
                         
                         <a href="about.php" class="btn btn-primary rounded-pill py-3 px-5">Explore More</a>
                     </div>
@@ -154,7 +154,7 @@
                 <div class="bg-primary mb-3 mx-auto" style="width: 60px; height: 2px;"></div>
                 <h1 class="display-5 mb-5">Certificate</h1>
             </div>
-            <center><img src="img/about/certificate.png" width="40%" alt=""></center><br><br>
+            <center><img src="img/about/certificate.png" width="100%" alt=""></center><br><br>
                 </div>
             </div>
         </div>

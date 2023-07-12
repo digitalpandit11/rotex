@@ -22,13 +22,14 @@
         <div class="container about px-lg-0">
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-9 ps-lg-2" style="min-height: 400px;">
-                    <img class="mt-2" src="img/product/nut/hex-nut-manufacturer-1.jpg" alt=""><br><br>
-                    <h3 class="text-primary">Wing Nut Manufacturers, Exporter, and Stockist in India</h3>
-                    <p class="mb-4 pb-2">Rotex Engineers is one of the largest Wing Nut Manufacturer in India. To manufacture high-quality Wing Nuts for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our company is a renowned stockist of many types of high-quality Wing Nuts for huge enterprises, businesses, and other industries. We supply and export a wide assortment of Wing Nut in India and a few other countries. We have played a significant role in the development and growth of the Indian market.</p>
-                    <p class="mb-4 pb-2">The Wing Nuts are well-known for their dimensional perfection and exquisite quality, as well as their corrosion resistance. We have professional staff to ensure the quality of Hexagonal Nut throughout the manufacturing process, from raw material selection to processing, marketing, packaging, storage, and transportation. We have a large selection of Wing Nut in stock and ready to ship. We take orders and manufacture according to the specifications of our customers. We are also the largest exporter of Cage Nuts.</p>
+                    <img class=" img-fluid mt-2" src="img/product/nut/hex-nut-manufacturer-1.jpg" alt=""><br><br>
+                    <h3 class="text-primary jt">Wing Nut Manufacturers, Exporter, and Stockist in India</h3>
+                    <p class="mb-4 pb-2 jt">Rotex Engineers is one of the largest Wing Nut Manufacturer in India. To manufacture high-quality Wing Nuts for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our company is a renowned stockist of many types of high-quality Wing Nuts for huge enterprises, businesses, and other industries. We supply and export a wide assortment of Wing Nut in India and a few other countries. We have played a significant role in the development and growth of the Indian market.</p>
+                    <p class="mb-4 pb-2 jt">The Wing Nuts are well-known for their dimensional perfection and exquisite quality, as well as their corrosion resistance. We have professional staff to ensure the quality of Hexagonal Nut throughout the manufacturing process, from raw material selection to processing, marketing, packaging, storage, and transportation. We have a large selection of Wing Nut in stock and ready to ship. We take orders and manufacture according to the specifications of our customers. We are also the largest exporter of Cage Nuts.</p>
 
                     <br><br>
-                    <h3 class="text-primary">Specification of Wing Nut :</h3>
+                    <h3 class="text-primary jt">Specification of Wing Nut :</h3>
+                    <div class="table-responsive">
                     <table class=" table table-bordered ">
                         <tbody>
                             <tr>
@@ -62,17 +63,18 @@
                             
                         </tbody>
                     </table>
+                </div>
                     <br><br>
                     <div class="row">
                         <div class="col-lg-6">
-                            <h4 class="mb-2">Application & Uses Of Wing Nut Exporter</h4>
+                            <h4 class="mb-2 jt">Application & Uses Of Wing Nut Exporter</h4>
                             <ul>
-                                <li class="mb-2">Wing Nut used in Petroleum Industry</li>
-                                <li class="mb-2">Wing Nut used in Aerospace Industry</li>
-                                <li class="mb-2">Wing Nut used in Chemical Industry</li>
-                                <li class="mb-2">Wing Nut used in oil & Gas Industry</li>
-                                <li class="mb-2">Wing Nut used in Nuclear Energy Sector</li>
-                                <li class="mb-2">Wing Nut used in automotive industries</li>
+                                <li class="mb-2 jt">Wing Nut used in Petroleum Industry</li>
+                                <li class="mb-2 jt">Wing Nut used in Aerospace Industry</li>
+                                <li class="mb-2 jt">Wing Nut used in Chemical Industry</li>
+                                <li class="mb-2 jt">Wing Nut used in oil & Gas Industry</li>
+                                <li class="mb-2 jt">Wing Nut used in Nuclear Energy Sector</li>
+                                <li class="mb-2 jt">Wing Nut used in automotive industries</li>
                             </ul>
                         </div>
                         <div class="col-lg-6">
@@ -80,10 +82,11 @@
                         </div>
                     </div>
                     <br><br>
-                    <h3 class="text-primary">About Wing Nut Manufacturer - Rotex Engineers</h3>
-                    <p class="mb-4 pb-2">A Wing Nut is a small (typically Wing or hexagonal) metal bWing with an internal screw thread that is used to secure a bolt. We produce a wide range of Wing Nuts with varying sizes, shapes, thicknesses, and grades. All of our Wing Nut Fasteners are compliant with International Quality Standards (IQS) and used anywhere in the world without any problem. Our Enterprises has a long history and a large number of satisfied customers all over the world.</p>
-                    <h3 class="text-primary">Supplying Wing Nut to Following Domestic Cities</h3>
-                    <p class="mb-4 pb-2">Rotex Engineers is one of India’s major producers, exporters, stockist of Wing Nuts, due to its dependability and performance. We export two containers of Wing Nuts products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Wing Nuts at affordable prices with simple services.</p>
+                    <h3 class="text-primary jt">About Wing Nut Manufacturer - Rotex Engineers</h3>
+                    <p class="mb-4 pb-2 jt">A Wing Nut is a small (typically Wing or hexagonal) metal bWing with an internal screw thread that is used to secure a bolt. We produce a wide range of Wing Nuts with varying sizes, shapes, thicknesses, and grades. All of our Wing Nut Fasteners are compliant with International Quality Standards (IQS) and used anywhere in the world without any problem. Our Enterprises has a long history and a large number of satisfied customers all over the world.</p>
+                    <h3 class="text-primary jt">Supplying Wing Nut to Following Domestic Cities</h3>
+                    <p class="mb-4 pb-2 jt">Rotex Engineers is one of India’s major producers, exporters, stockist of Wing Nuts, due to its dependability and performance. We export two containers of Wing Nuts products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Wing Nuts at affordable prices with simple services.</p>
+                    <div class="table-responsive">
                     <table class="table table-bordered">
                         <thead>
                             <th colspan="6"><center>Cities We Supply Wing Nut products</center></th>
@@ -179,8 +182,10 @@
                             </tr>
                         </tbody>
                     </table>
-                    <h3 class="text-primary">Export Wing Nut products to Below Countries</h3>
-                    <p class="mb-4 pb-2">Wing Nut is a Nut with wing-like extensions to aid rotating with the thumb and forefinger. All of our Wing Nut are compliant with International Quality Standards (IQS) and used anywhere in the world without any problem. Our Enterprises has a long history and a large number of satisfied customers all over the world.</p>
+                    </div>
+                    <h3 class="text-primary jt">Export Wing Nut products to Below Countries</h3>
+                    <p class="mb-4 pb-2 jt">Wing Nut is a Nut with wing-like extensions to aid rotating with the thumb and forefinger. All of our Wing Nut are compliant with International Quality Standards (IQS) and used anywhere in the world without any problem. Our Enterprises has a long history and a large number of satisfied customers all over the world.</p>
+                    <div class="table-responsive">
                     <table class="table table-bordered">
                         <thead>
                             <th colspan="4"><center>Countries We Export our Wing Nut products</center></th>
@@ -224,6 +229,7 @@
                             </tr>
                         </tbody>
                     </table>
+                </div>
                 </div>
                 <div class="col-lg-3 about-text  wow fadeIn" data-wow-delay="0.5s">
                     <div class="p-lg-5 pe-lg-0">

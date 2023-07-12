@@ -34,12 +34,13 @@
                             <img class="mt-2" src="img/product1/DOUBLE ENDED STUDS/DES3.webp" width="100%" alt="">
                         </div>
                     </div><br><br>
-                    <h3 class="text-primary">Double Ended Stud Manufacturers, Exporter, and Stockist in India</h3>
-                    <p class="mb-4 pb-2">Rotex Engineers is one of the largest Double Ended Stud Manufacturer in India. To manufacture high-quality Double Ended Studs for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our company is a renowned stockist of many types of high-quality Double Ended Studs for huge enterprises, businesses, and other industries. We supply and export a wide assortment of Double Ended Stud in India and a few other countries. We have played a significant role in the development and growth of the Indian market.</p>
-                    <p class="mb-4 pb-2">The Double Ended Studs are well-known for their dimensional perfection and exquisite quality, as well as their corrosion resistance. We have professional staff to ensure the quality of Double Ended Studs throughout the manufacturing process, from raw material selection to processing, marketing, packaging, storage, and transportation. We have a large selection of Double Ended Stud in stock and ready to ship. We take orders and manufacture according to the specifications of our customers. We are also the largest exporter of Washers.</p>
+                    <h3 class="text-primary jt">Double Ended Stud Manufacturers, Exporter, and Stockist in India</h3>
+                    <p class="mb-4 pb-2 jt">Rotex Engineers is one of the largest Double Ended Stud Manufacturer in India. To manufacture high-quality Double Ended Studs for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our company is a renowned stockist of many types of high-quality Double Ended Studs for huge enterprises, businesses, and other industries. We supply and export a wide assortment of Double Ended Stud in India and a few other countries. We have played a significant role in the development and growth of the Indian market.</p>
+                    <p class="mb-4 pb-2 jt">The Double Ended Studs are well-known for their dimensional perfection and exquisite quality, as well as their corrosion resistance. We have professional staff to ensure the quality of Double Ended Studs throughout the manufacturing process, from raw material selection to processing, marketing, packaging, storage, and transportation. We have a large selection of Double Ended Stud in stock and ready to ship. We take orders and manufacture according to the specifications of our customers. We are also the largest exporter of Washers.</p>
 
                     <br><br>
-                    <h3 class="text-primary">Specification of Double Ended Stud :</h3>
+                    <h3 class="text-primary jt">Specification of Double Ended Stud :</h3>
+                    <div class="table-responsive">
                     <table class=" table table-bordered ">
                         <tbody>
                             <tr>
@@ -144,18 +145,18 @@
                             
                         </tbody>
                     </table>
-
+                </div>
                     <br><br>
                     <div class="row">
                         <div class="col-lg-6">
-                            <h4 class="mb-2">Application & Uses Of Double Ended Stud Exporter</h4>
+                            <h4 class="mb-2 jt">Application & Uses Of Double Ended Stud Exporter</h4>
                             <ul>
-                                <li class="mb-2">Double Ended Stud used in Petroleum Industry</li>
-                                <li class="mb-2">Double Ended Stud used in Aerospace Industry</li>
-                                <li class="mb-2">Double Ended Stud used in Chemical Industry</li>
-                                <li class="mb-2">Double Ended Stud used in oil & Gas Industry</li>
-                                <li class="mb-2">Double Ended Stud used in Nuclear Energy Sector</li>
-                                <li class="mb-2">Double Ended Stud used in automotive industries</li>
+                                <li class="mb-2 jt">Double Ended Stud used in Petroleum Industry</li>
+                                <li class="mb-2 jt">Double Ended Stud used in Aerospace Industry</li>
+                                <li class="mb-2 jt">Double Ended Stud used in Chemical Industry</li>
+                                <li class="mb-2 jt">Double Ended Stud used in oil & Gas Industry</li>
+                                <li class="mb-2 jt">Double Ended Stud used in Nuclear Energy Sector</li>
+                                <li class="mb-2 jt">Double Ended Stud used in automotive industries</li>
                             </ul>
                         </div>
                         <div class="col-lg-6">
@@ -163,10 +164,11 @@
                         </div>
                     </div>
                     <br><br>
-                    <h3 class="text-primary">About Double Ended Stud Manufacturer - Rotex Engineers</h3>
-                    <p class="mb-4 pb-2">A Double Ended Stud, also known as a stud, is a relatively long rod with threaded ends and a thread that may run the length of the rod. We produce a wide range of Double Ended Studs with varying sizes, shapes, thicknesses, and grades. All of our Double Ended Stud Fasteners are compliant with International Quality Standards (IQS) and used anywhere in the world without any problem. Our Enterprises has a long history and a large number of satisfied customers all over the world.</p>
-                    <h3 class="text-primary">Supplying Double Ended Studs to Following Domestic Cities</h3>
-                    <p class="mb-4 pb-2">Rotex Engineers is one of India’s major producers, exporters, stockist of Double Ended Studs, due to its dependability and performance. We export two containers of Double Ended Studs products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Double Ended Studs at affordable prices with simple services.</p>
+                    <h3 class="text-primary jt">About Double Ended Stud Manufacturer - Rotex Engineers</h3>
+                    <p class="mb-4 pb-2 jt">A Double Ended Stud, also known as a stud, is a relatively long rod with threaded ends and a thread that may run the length of the rod. We produce a wide range of Double Ended Studs with varying sizes, shapes, thicknesses, and grades. All of our Double Ended Stud Fasteners are compliant with International Quality Standards (IQS) and used anywhere in the world without any problem. Our Enterprises has a long history and a large number of satisfied customers all over the world.</p>
+                    <h3 class="text-primary jt">Supplying Double Ended Studs to Following Domestic Cities</h3>
+                    <p class="mb-4 pb-2 jt">Rotex Engineers is one of India’s major producers, exporters, stockist of Double Ended Studs, due to its dependability and performance. We export two containers of Double Ended Studs products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Double Ended Studs at affordable prices with simple services.</p>
+                    <div class="table-responsive">
                     <table class="table table-bordered">
                         <thead>
                             <th colspan="6"><center>Cities We Supply Double Ended Studs products</center></th>
@@ -262,8 +264,10 @@
                             </tr>
                         </tbody>
                     </table>
-                    <h3 class="text-primary">Export Double Ended Studs products to Below Countries</h3>
-                    <p class="mb-4 pb-2">Our high-quality Double Ended Studs and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading Double Ended Studs exporter. Over 35 countries purchased our Double Ended Studs on a regular basis. We’ve supplied over 1000+ toners of the Double Ended Studs to India in the last seven years. Custom Double Ended Studs orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                    </div>
+                    <h3 class="text-primary jt">Export Double Ended Studs products to Below Countries</h3>
+                    <p class="mb-4 pb-2 jt">Our high-quality Double Ended Studs and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading Double Ended Studs exporter. Over 35 countries purchased our Double Ended Studs on a regular basis. We’ve supplied over 1000+ toners of the Double Ended Studs to India in the last seven years. Custom Double Ended Studs orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                    <div class="table-responsive">
                     <table class="table table-bordered">
                         <thead>
                             <th colspan="4"><center>Countries We Export our Double Ended Studs products</center></th>
@@ -307,6 +311,7 @@
                             </tr>
                         </tbody>
                     </table>
+                </div>
                 </div>
                 <div class="col-lg-3 about-text  wow fadeIn" data-wow-delay="0.5s">
                     <div class="p-lg-5 pe-lg-0">

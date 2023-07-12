@@ -22,13 +22,14 @@
         <div class="container about px-lg-0">
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-9 ps-lg-2" style="min-height: 400px;">
-                    <img class="mt-2" src="img/product/nut/cage-nut-manufacturer-1.jpg" alt=""><br><br>
-                    <h3 class="text-primary">Cage Nut Manufacturers, Exporter, and Stockist in India</h3>
-                    <p class="mb-4 pb-2">Rotex Engineers is one of the largest Cage Nut Manufacturer in India. To manufacture high-quality Cage Nuts for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our company is a renowned stockist of many types of high-quality Cage Nuts for huge enterprises, businesses, and other industries. We supply and export a wide assortment of Cage Nut in India and a few other countries. We have played a significant role in the development and growth of the Indian market.</p>
-                    <p class="mb-4 pb-2">The Cage Nuts are well-known for their dimensional perfection and exquisite quality, as well as their corrosion resistance. We have professional staff to ensure the quality of Hexagonal Nut throughout the manufacturing process, from raw material selection to processing, marketing, packaging, storage, and transportation. We have a large selection of Cage Nut in stock and ready to ship. We take orders and manufacture according to the specifications of our customers. We are also the largest exporter of Hex Nuts.</p>
+                    <img class="img-fluid mt-2" src="img/product/nut/cage-nut-manufacturer-1.jpg" alt=""><br><br>
+                    <h3 class="text-primary jt">Cage Nut Manufacturers, Exporter, and Stockist in India</h3>
+                    <p class="mb-4 pb-2 jt">Rotex Engineers is one of the largest Cage Nut Manufacturer in India. To manufacture high-quality Cage Nuts for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our company is a renowned stockist of many types of high-quality Cage Nuts for huge enterprises, businesses, and other industries. We supply and export a wide assortment of Cage Nut in India and a few other countries. We have played a significant role in the development and growth of the Indian market.</p>
+                    <p class="mb-4 pb-2 jt">The Cage Nuts are well-known for their dimensional perfection and exquisite quality, as well as their corrosion resistance. We have professional staff to ensure the quality of Hexagonal Nut throughout the manufacturing process, from raw material selection to processing, marketing, packaging, storage, and transportation. We have a large selection of Cage Nut in stock and ready to ship. We take orders and manufacture according to the specifications of our customers. We are also the largest exporter of Hex Nuts.</p>
 
                     <br><br>
-                    <h3 class="text-primary">Specification of Cage Nut :</h3>
+                    <h3 class="text-primary jt">Specification of Cage Nut :</h3>
+                    <div class="table-responsive">
                     <table class=" table table-bordered ">
                     <tbody>
                             <tr>
@@ -63,17 +64,18 @@
                             
                         </tbody>
                     </table>
+                    </div>
                     <br><br>
                     <div class="row">
                         <div class="col-lg-6">
-                            <h4 class="mb-2">Application & Uses Of Cage Nut Exporter</h4>
+                            <h4 class="mb-2 jt">Application & Uses Of Cage Nut Exporter</h4>
                             <ul>
-                                <li class="mb-2">Cage Nut used in Petroleum Industry</li>
-                                <li class="mb-2">Cage Nut used in Aerospace Industry</li>
-                                <li class="mb-2">Cage Nut used in Chemical Industry</li>
-                                <li class="mb-2">Cage Nut used in oil & Gas Industry</li>
-                                <li class="mb-2">Cage Nut used in Nuclear Energy Sector</li>
-                                <li class="mb-2">Cage Nut used in automotive industries</li>
+                                <li class="mb-2 jt">Cage Nut used in Petroleum Industry</li>
+                                <li class="mb-2 jt">Cage Nut used in Aerospace Industry</li>
+                                <li class="mb-2 jt">Cage Nut used in Chemical Industry</li>
+                                <li class="mb-2 jt">Cage Nut used in oil & Gas Industry</li>
+                                <li class="mb-2 jt">Cage Nut used in Nuclear Energy Sector</li>
+                                <li class="mb-2 jt">Cage Nut used in automotive industries</li>
                             </ul>
                         </div>
                         <div class="col-lg-6">
@@ -81,10 +83,11 @@
                         </div>
                     </div>
                     <br><br>
-                    <h3 class="text-primary">About Cage Nut Manufacturer - Rotex Engineers</h3>
-                    <p class="mb-4 pb-2">A Cage Nut is a small (typically Cage or hexagonal) metal bCage with an internal screw thread that is used to secure a bolt. We produce a wide range of Cage Nuts with varying sizes, shapes, thicknesses, and grades. All of our Cage Nut Fasteners are compliant with International Quality Standards (IQS) and used anywhere in the world without any problem. Our Enterprises has a long history and a large number of satisfied customers all over the world.</p>
-                    <h3 class="text-primary">Supplying Cage Nut to Following Domestic Cities</h3>
-                    <p class="mb-4 pb-2">Rotex Engineers is one of India’s major producers, exporters, stockist of Cage Nuts, due to its dependability and performance. We export two containers of Cage Nuts products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Cage Nuts at affordable prices with simple services.</p>
+                    <h3 class="text-primary jt">About Cage Nut Manufacturer - Rotex Engineers</h3>
+                    <p class="mb-4 pb-2 jt">A Cage Nut is a small (typically Cage or hexagonal) metal bCage with an internal screw thread that is used to secure a bolt. We produce a wide range of Cage Nuts with varying sizes, shapes, thicknesses, and grades. All of our Cage Nut Fasteners are compliant with International Quality Standards (IQS) and used anywhere in the world without any problem. Our Enterprises has a long history and a large number of satisfied customers all over the world.</p>
+                    <h3 class="text-primary jt">Supplying Cage Nut to Following Domestic Cities</h3>
+                    <p class="mb-4 pb-2 jt">Rotex Engineers is one of India’s major producers, exporters, stockist of Cage Nuts, due to its dependability and performance. We export two containers of Cage Nuts products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Cage Nuts at affordable prices with simple services.</p>
+                    <div class="table-responsive">
                     <table class="table table-bordered">
                         <thead>
                             <th colspan="6"><center>Cities We Supply Cage Nut products</center></th>
@@ -180,8 +183,10 @@
                             </tr>
                         </tbody>
                     </table>
-                    <h3 class="text-primary">Export Cage Nut products to Below Countries</h3>
-                    <p class="mb-4 pb-2">Cage Nuts are great for protecting your equipment from stripped threads and allow for convenient mounting of your server rack equipment. All of our Cage Nut are compliant with International Quality Standards (IQS) and used anywhere in the world without any problem. Our Enterprises has a long history and a large number of satisfied customers all over the world.</p>
+                    </div>
+                    <h3 class="text-primary jt">Export Cage Nut products to Below Countries</h3>
+                    <p class="mb-4 pb-2 jt">Cage Nuts are great for protecting your equipment from stripped threads and allow for convenient mounting of your server rack equipment. All of our Cage Nut are compliant with International Quality Standards (IQS) and used anywhere in the world without any problem. Our Enterprises has a long history and a large number of satisfied customers all over the world.</p>
+                    <div class="table-responsive">
                     <table class="table table-bordered">
                         <thead>
                             <th colspan="4"><center>Countries We Export our Cage Nut products</center></th>
@@ -225,6 +230,7 @@
                             </tr>
                         </tbody>
                     </table>
+                </div>
                 </div>
                 <div class="col-lg-3 about-text  wow fadeIn" data-wow-delay="0.5s">
                     <div class="p-lg-5 pe-lg-0">

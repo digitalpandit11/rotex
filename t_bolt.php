@@ -22,10 +22,10 @@
         <div class="container about px-lg-0">
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-9 ps-lg-2" style="min-height: 400px;">
-                <img class="mt-2" src="img/product/bolt/t-bolt-1.jpg" alt=""><br><br>
-                <h3 class="text-primary">T Bolt Manufacturers, Exporter, and Stockist in India</h3>
-                <p class="mb-4 pb-2">Rotex Engineers is top Manufacturer of T Bolt in India. We provides T Bolt in a variety of sizes and shapes. T Bolts can also be found in a variety of materials and grades. Each T Bolt has different specification and use. We are also known as leading T Bolts Manufacturer, Stockist & Exportor in India. To manufacture high-quality T Bolts for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our qualitative range of T Bolt is exclusively designed for several bolts applications of various industries Such as Petroleum industry, Oil & Gas Industries, Chemical Processing industry etc.</p>
-                <p class="mb-4 pb-2">We have a large selection of T Bolt in stock and ready to ship. We take orders and manufacture according to the requirement of our customers. we are India’s biggest manufacturer of larger diameter T Bolt as well as fasteners. All of our Bolt are compliant with International Quality Standards (IQS) and may be used anywhere in the world without any problem. We also specialize in Carriage Bolt.</p>
+                <img class="img-fluid mt-2" src="img/product/bolt/t-bolt-1.jpg" alt=""><br><br>
+                <h3 class="text-primary jt">T Bolt Manufacturers, Exporter, and Stockist in India</h3>
+                <p class="mb-4 pb-2 jt">Rotex Engineers is top Manufacturer of T Bolt in India. We provides T Bolt in a variety of sizes and shapes. T Bolts can also be found in a variety of materials and grades. Each T Bolt has different specification and use. We are also known as leading T Bolts Manufacturer, Stockist & Exportor in India. To manufacture high-quality T Bolts for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our qualitative range of T Bolt is exclusively designed for several bolts applications of various industries Such as Petroleum industry, Oil & Gas Industries, Chemical Processing industry etc.</p>
+                <p class="mb-4 pb-2 jt">We have a large selection of T Bolt in stock and ready to ship. We take orders and manufacture according to the requirement of our customers. we are India’s biggest manufacturer of larger diameter T Bolt as well as fasteners. All of our Bolt are compliant with International Quality Standards (IQS) and may be used anywhere in the world without any problem. We also specialize in Carriage Bolt.</p>
 
                 <br><br>
                 <h3 class="text-primary">Specification of T Bolt :</h3>
@@ -37,10 +37,10 @@
                     <p class="mb-2"><b>Diameter :</b>M6 – M36</p>
                     </li>
                     <li>
-                    <p class="mb-2"><b>Material :</b>Carbon Steel Alloy/Steel/Stainless Steel,Monel,Inconel,Duplex,Etc.</p>
+                    <p class="mb-2 jt"><b>Material :</b>Carbon Steel Alloy/Steel/Stainless Steel,Monel,Inconel,Duplex,Etc.</p>
                     </li>
                     <li>
-                    <p class="mb-2"><b>Finished :</b>Self Colour Zp YZP H.D.G</p>
+                    <p class="mb-2 jt"><b>Finished :</b>Self Colour Zp YZP H.D.G</p>
                     </li>
                     
                 </ul>
@@ -50,12 +50,12 @@
                     <div class="col-lg-6">
                         <h4 class="mb-2">Application & Uses Of T Bolt</h4>
                         <ul>
-                            <li class="mb-2">T Bolt used in Petroleum Industry</li>
-                            <li class="mb-2">T Bolt used in Aerospace Industry</li>
-                            <li class="mb-2">T Bolt used in Chemical Industry</li>
-                            <li class="mb-2">T Bolt used in oil & Gas Industry</li>
-                            <li class="mb-2">T Bolt used in Nuclear Energy Sector</li>
-                            <li class="mb-2">T Bolt used in automotive industries</li>
+                            <li class="mb-2 jt">T Bolt used in Petroleum Industry</li>
+                            <li class="mb-2 jt">T Bolt used in Aerospace Industry</li>
+                            <li class="mb-2 jt">T Bolt used in Chemical Industry</li>
+                            <li class="mb-2 jt">T Bolt used in oil & Gas Industry</li>
+                            <li class="mb-2 jt">T Bolt used in Nuclear Energy Sector</li>
+                            <li class="mb-2 jt">T Bolt used in automotive industries</li>
                         </ul>
                     </div>
                     <div class="col-lg-6">
@@ -63,10 +63,11 @@
                     </div>
                 </div>
                 <br><br>
-                <h3 class="text-primary">About T Bolt Manufacturer - Rotex Engineers</h3>
-                <p class="mb-4 pb-2">T bolts come in a variety of sizes ranging from small to large. Because of their T-shape design, they ensure perfect sealing. It is both light and leak-proof. T bolts always ensure that the sealing pressure is distributed evenly. T bolts have a longer lifespan due to their corrosion resistance. All of our T Bolt Fasteners are compliant with International Quality Standards (IQS) and may be used anywhere in the world without any problem.</p>
-                <h3 class="text-primary">Supplying T Bolts to Following Domestic Cities</h3>
-                <p class="mb-4 pb-2">Rotex Engineers is one of India’s major producers, exporters, stockist of T Bolts, due to its dependability and performance. We export two containers of T Bolts products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality T Bolts at affordable prices with simple services.</p>
+                <h3 class="text-primary jt">About T Bolt Manufacturer - Rotex Engineers</h3>
+                <p class="mb-4 pb-2 jt">T bolts come in a variety of sizes ranging from small to large. Because of their T-shape design, they ensure perfect sealing. It is both light and leak-proof. T bolts always ensure that the sealing pressure is distributed evenly. T bolts have a longer lifespan due to their corrosion resistance. All of our T Bolt Fasteners are compliant with International Quality Standards (IQS) and may be used anywhere in the world without any problem.</p>
+                <h3 class="text-primary jt">Supplying T Bolts to Following Domestic Cities</h3>
+                <p class="mb-4 pb-2 jt">Rotex Engineers is one of India’s major producers, exporters, stockist of T Bolts, due to its dependability and performance. We export two containers of T Bolts products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality T Bolts at affordable prices with simple services.</p>
+                <div class="table-responsive">
                 <table class="table table-bordered">
                     <thead>
                         <th colspan="6"><center>Cities We Supply T Bolts products</center></th>
@@ -162,8 +163,10 @@
                         </tr>
                     </tbody>
                 </table>
-                <h3 class="text-primary">Export T Bolt products to Below Countries</h3>
-                <p class="mb-4 pb-2">Our high-quality T Bolts and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading T Bolts suppliers. Over 35 countries purchased our T Bolts on a regular basis. We’ve supplied over 1000+ toners of the T Bolts to India in the last seven years. Custom T Bolts orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+             </div>
+                <h3 class="text-primary jt">Export T Bolt products to Below Countries</h3>
+                <p class="mb-4 pb-2 jt">Our high-quality T Bolts and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading T Bolts suppliers. Over 35 countries purchased our T Bolts on a regular basis. We’ve supplied over 1000+ toners of the T Bolts to India in the last seven years. Custom T Bolts orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                <div class="table-responsive">
                 <table class="table table-bordered">
                     <thead>
                         <th colspan="4"><center>Countries We Export our T Bolt products</center></th>
@@ -208,6 +211,7 @@
                     </tbody>
                 </table>
                 </div>
+               </div>
                 <div class="col-lg-3 about-text  wow fadeIn" data-wow-delay="0.5s">
                     <div class="p-lg-5 pe-lg-0">
                         <div class="bg-primary mb-3" style="width: 60px; height: 2px;"></div>

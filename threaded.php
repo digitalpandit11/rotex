@@ -22,13 +22,14 @@
         <div class="container about px-lg-0">
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-9 ps-lg-2" style="min-height: 400px;">
-                    <img class="mt-2" src="img/product/threaded/threaded-manufacturer.jpg" alt=""><br><br>
-                    <h3 class="text-primary">Threaded Rod Manufacturers, Exporter, and Stockist in India</h3>
-                    <p class="mb-4 pb-2">Rotex Engineers is one of the largest Threaded Rod Manufacturer in India. To manufacture high-quality Threaded Rods for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our company is a renowned stockist of many types of high-quality Threaded Rods for huge enterprises, businesses, and other industries. We supply and export a wide assortment of Threaded Rod in India and a few other countries. We have played a significant role in the development and growth of the Indian market.</p>
-                    <p class="mb-4 pb-2">The Threaded Rods are well-known for their dimensional perfection and exquisite quality, as well as their corrosion resistance. We have professional staff to ensure the quality of Threaded Rods throughout the manufacturing process, from raw material selection to processing, marketing, packaging, storage, and transportation. We have a large selection of Threaded Rod in stock and ready to ship. We take orders and manufacture according to the specifications of our customers. We are also the largest exporter of Washers.</p>
+                    <img class="img-fluid mt-2" src="img/product/threaded/threaded-manufacturer.jpg" alt=""><br><br>
+                    <h3 class="text-primary jt">Threaded Rod Manufacturers, Exporter, and Stockist in India</h3>
+                    <p class="mb-4 pb-2 jt">Rotex Engineers is one of the largest Threaded Rod Manufacturer in India. To manufacture high-quality Threaded Rods for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our company is a renowned stockist of many types of high-quality Threaded Rods for huge enterprises, businesses, and other industries. We supply and export a wide assortment of Threaded Rod in India and a few other countries. We have played a significant role in the development and growth of the Indian market.</p>
+                    <p class="mb-4 pb-2 jt">The Threaded Rods are well-known for their dimensional perfection and exquisite quality, as well as their corrosion resistance. We have professional staff to ensure the quality of Threaded Rods throughout the manufacturing process, from raw material selection to processing, marketing, packaging, storage, and transportation. We have a large selection of Threaded Rod in stock and ready to ship. We take orders and manufacture according to the specifications of our customers. We are also the largest exporter of Washers.</p>
 
                     <br><br>
-                    <h3 class="text-primary">Specification of Threaded Rod :</h3>
+                    <h3 class="text-primary jt">Specification of Threaded Rod :</h3>
+                    <div class="table-responsive">
                     <table class=" table table-bordered ">
                         <tbody>
                             <tr>
@@ -65,7 +66,7 @@
                             </tr>
                         </tbody>
                     </table>
-                        
+                    </div>     
                     <h3 class="text-primary">Types of Threaded Rod</h3>
                     <div class="row">
                         <div class="col-lg-3">
@@ -89,14 +90,14 @@
                     <br><br>
                     <div class="row">
                         <div class="col-lg-6">
-                            <h4 class="mb-2">Application & Uses Of Threaded Rod Exporter</h4>
+                            <h4 class="mb-2 jt">Application & Uses Of Threaded Rod Exporter</h4>
                             <ul>
-                                <li class="mb-2">Threaded Rod used in Petroleum Industry</li>
-                                <li class="mb-2">Threaded Rod used in Aerospace Industry</li>
-                                <li class="mb-2">Threaded Rod used in Chemical Industry</li>
-                                <li class="mb-2">Threaded Rod used in oil & Gas Industry</li>
-                                <li class="mb-2">Threaded Rod used in Nuclear Energy Sector</li>
-                                <li class="mb-2">Threaded Rod used in automotive industries</li>
+                                <li class="mb-2 jt">Threaded Rod used in Petroleum Industry</li>
+                                <li class="mb-2 jt">Threaded Rod used in Aerospace Industry</li>
+                                <li class="mb-2 jt">Threaded Rod used in Chemical Industry</li>
+                                <li class="mb-2 jt">Threaded Rod used in oil & Gas Industry</li>
+                                <li class="mb-2 jt">Threaded Rod used in Nuclear Energy Sector</li>
+                                <li class="mb-2 jt">Threaded Rod used in automotive industries</li>
                             </ul>
                         </div>
                         <div class="col-lg-6">
@@ -104,10 +105,11 @@
                         </div>
                     </div>
                     <br><br>
-                    <h3 class="text-primary">About Threaded Rod Manufacturer - Rotex Engineers</h3>
-                    <p class="mb-4 pb-2">A Threaded Rod, also known as a stud, is a relatively long rod with threaded ends and a thread that may run the length of the rod. We produce a wide range of Threaded Rods with varying sizes, shapes, thicknesses, and grades. All of our Threaded Rod Fasteners are compliant with International Quality Standards (IQS) and used anywhere in the world without any problem. Our Enterprises has a long history and a large number of satisfied customers all over the world.</p>
-                    <h3 class="text-primary">Supplying Threaded Rod to Following Domestic Cities</h3>
-                    <p class="mb-4 pb-2">Rotex Engineers is one of India’s major producers, exporters, stockist of Threaded Rods, due to its dependability and performance. We export two containers of Threaded Rods products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Threaded Rods at affordable prices with simple services.</p>
+                    <h3 class="text-primary jt">About Threaded Rod Manufacturer - Rotex Engineers</h3>
+                    <p class="mb-4 pb-2 jt">A Threaded Rod, also known as a stud, is a relatively long rod with threaded ends and a thread that may run the length of the rod. We produce a wide range of Threaded Rods with varying sizes, shapes, thicknesses, and grades. All of our Threaded Rod Fasteners are compliant with International Quality Standards (IQS) and used anywhere in the world without any problem. Our Enterprises has a long history and a large number of satisfied customers all over the world.</p>
+                    <h3 class="text-primary jt">Supplying Threaded Rod to Following Domestic Cities</h3>
+                    <p class="mb-4 pb-2 jt">Rotex Engineers is one of India’s major producers, exporters, stockist of Threaded Rods, due to its dependability and performance. We export two containers of Threaded Rods products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Threaded Rods at affordable prices with simple services.</p>
+                    <div class="table-responsive">
                     <table class="table table-bordered">
                         <thead>
                             <th colspan="6"><center>Cities We Supply Threaded Rods products</center></th>
@@ -203,8 +205,10 @@
                             </tr>
                         </tbody>
                     </table>
-                    <h3 class="text-primary">Export Threaded Rods products to Below Countries</h3>
-                    <p class="mb-4 pb-2">Our high-quality Threaded Rods and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading Threaded Rods exporter. Over 35 countries purchased our Threaded Rods on a regular basis. We’ve supplied over 1000+ toners of the Threaded Rods to India in the last seven years. Custom Threaded Rods orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                    </div>
+                    <h3 class="text-primary jt">Export Threaded Rods products to Below Countries</h3>
+                    <p class="mb-4 pb-2 jt">Our high-quality Threaded Rods and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading Threaded Rods exporter. Over 35 countries purchased our Threaded Rods on a regular basis. We’ve supplied over 1000+ toners of the Threaded Rods to India in the last seven years. Custom Threaded Rods orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                    <div class="table-responsive">
                     <table class="table table-bordered">
                         <thead>
                             <th colspan="4"><center>Countries We Export our Threaded Rods products</center></th>
@@ -248,6 +252,7 @@
                             </tr>
                         </tbody>
                     </table>
+                    </div>
                 </div>
                 <div class="col-lg-3 about-text  wow fadeIn" data-wow-delay="0.5s">
                     <div class="p-lg-5 pe-lg-0">

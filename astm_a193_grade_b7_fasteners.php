@@ -22,13 +22,14 @@
         <div class="container about px-lg-0">
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-12 ps-lg-4" style="min-height: 400px;">
-                    <center><img class="mt-2" src="img/product/materials/ASTM-A193-grade-B7-bolts.jpg" alt=""></center><br><br>
-                    <h3 class="text-primary">ASTM A193 Grade B7 Bolts Manufacturers, Exporter, and Stockist in India</h3>
-                    <p class="mb-4 pb-2">Rotex Engineers is the most leading ASTM A193 B7 Bolts Manufacturer in Mumbai, India. A193 B7 is a material specification for chromium-molybdenum alloy steel fasteners designed for use in high tensile, high temperature, and special purpose applications. SA 193 B7 is a fastener specification material that is commonly found in bolting, piping, valves, fittings, flanges, and pressure vessels. SA 193 Gr B7 Bolts is made from medium carbon alloy steel that has been heat treated to increase its strength. Because of the heat treated chromium molybdenum steel, ASTM A193 Grade B7 Bolts are suitable for applications up to 450°C. B7 hex bolts have external threading and a hex head that is designed to be driven by a wrench. It can be fully or partially threaded and comes with a hex cap.</p>
-                    <p class="mb-4 pb-2">ASTM A193 Gr B7 Bolts are manufactured to meet a variety of specifications and material design properties. A193 B7 bolts are made of chromium-molybdenum steel that has been quenched and tempered to achieve the desired mechanical properties. The most common grade of bolts used in construction is grade b7. The minimum tensile strength of ASTM A193 gr B7 bolts is 100 ksi, the yield strength is 75 ksi, and the maximum hardness is 35 HRC. We are also the suppliers of ASTM A193 Grade B16 Bolts and so on.</p>
+                    <center><img class="img-fluid mt-2" src="img/product/materials/ASTM-A193-grade-B7-bolts.jpg" alt=""></center><br><br>
+                    <h3 class="text-primary jt">ASTM A193 Grade B7 Bolts Manufacturers, Exporter, and Stockist in India</h3>
+                    <p class="mb-4 pb-2 jt">Rotex Engineers is the most leading ASTM A193 B7 Bolts Manufacturer in Mumbai, India. A193 B7 is a material specification for chromium-molybdenum alloy steel fasteners designed for use in high tensile, high temperature, and special purpose applications. SA 193 B7 is a fastener specification material that is commonly found in bolting, piping, valves, fittings, flanges, and pressure vessels. SA 193 Gr B7 Bolts is made from medium carbon alloy steel that has been heat treated to increase its strength. Because of the heat treated chromium molybdenum steel, ASTM A193 Grade B7 Bolts are suitable for applications up to 450°C. B7 hex bolts have external threading and a hex head that is designed to be driven by a wrench. It can be fully or partially threaded and comes with a hex cap.</p>
+                    <p class="mb-4 pb-2 jt">ASTM A193 Gr B7 Bolts are manufactured to meet a variety of specifications and material design properties. A193 B7 bolts are made of chromium-molybdenum steel that has been quenched and tempered to achieve the desired mechanical properties. The most common grade of bolts used in construction is grade b7. The minimum tensile strength of ASTM A193 gr B7 bolts is 100 ksi, the yield strength is 75 ksi, and the maximum hardness is 35 HRC. We are also the suppliers of ASTM A193 Grade B16 Bolts and so on.</p>
 
                     <br><br>
-                    <h3 class="text-primary">ASTM A193 Grade B7 Bolts Specification</h3>
+                    <h3 class="text-primary jt">ASTM A193 Grade B7 Bolts Specification</h3>
+                    <div class="table-responsive">
                     <table class=" table table-bordered ">
                         <tbody>
                             <tr>
@@ -118,14 +119,13 @@
                                     <li>Cadmium Coated SA 193 B7 material</li>
                                     <li>PTEF Coated A193 B7 Threaded Rod</li>
                                 </ul></center></td>
-                            </tr>
-                            
-
-                            
+                            </tr>  
                         </tbody>
                     </table>
+                    </div>
                     <br><br>
-                    <h3 class="text-primary">ASTM A193 Grade B7 Bolts Chemical Composition</h3>
+                    <h3 class="text-primary jt">ASTM A193 Grade B7 Bolts Chemical Composition</h3>
+                    <div class="table-responsive">
                     <table class=" table table-bordered ">
                         <tbody>
                             <tr>
@@ -166,8 +166,10 @@
                             </tr>
                         </tbody>
                     </table>
+                </div>
                     <br><br>
-                    <h3 class="text-primary">ASTM A193 Grade B7 Bolts Mechanical Properties</h3>
+                    <h3 class="text-primary jt">ASTM A193 Grade B7 Bolts Mechanical Properties</h3>
+                    <div class="table-responsive">
                     <table class=" table table-bordered ">
                         <tbody>
                             <tr>
@@ -210,19 +212,19 @@
                             
                         </tbody>
                     </table>
-                        
+                    </div>  
                     
                     <br><br>    
                     <div class="row">
                         <div class="col-lg-6">
-                            <h4 class="mb-2">Application & Uses Of ASTM A193 Grade B7 Bolts</h4>
+                            <h4 class="mb-2 jt">Application & Uses Of ASTM A193 Grade B7 Bolts</h4>
                             <ul>
-                                <li class="mb-2">ASTM A193 Grade B7 Bolts used in Petroleum Industry</li>
-                                <li class="mb-2">SA 193 B7 Bolts used in Aerospace Industry</li>
-                                <li class="mb-2">B7 hex bolts used in Chemical Industry</li>
-                                <li class="mb-2">ASTM A193 gr B7 bolts used in oil & Gas Industry</li>
-                                <li class="mb-2">SA193 Grade B7 Bolts used in Nuclear Energy Sector</li>
-                                <li class="mb-2">A193 B7 Bolts used in automotive industries</li>
+                                <li class="mb-2 jt">ASTM A193 Grade B7 Bolts used in Petroleum Industry</li>
+                                <li class="mb-2 jt">SA 193 B7 Bolts used in Aerospace Industry</li>
+                                <li class="mb-2 jt">B7 hex bolts used in Chemical Industry</li>
+                                <li class="mb-2 jt">ASTM A193 gr B7 bolts used in oil & Gas Industry</li>
+                                <li class="mb-2 jt">SA193 Grade B7 Bolts used in Nuclear Energy Sector</li>
+                                <li class="mb-2 jt">A193 B7 Bolts used in automotive industries</li>
                             </ul>
                         </div>
                         <div class="col-lg-6">
@@ -230,10 +232,11 @@
                         </div>
                     </div>
                     <br><br>
-                    <h3 class="text-primary">About ASTM A193 Grade B7 Bolts Manufacturer - Rotex Engineers</h3>
-                    <p class="mb-4 pb-2">ASTM A193 B7 Bolts are made of chromium molybdenum and heat treated steel. These ASTM A193 B7 Metric Bolts are made by heat quenching and tempering. ASTM A193 B7 Fasteners are typically available in a bare metal finish. The ASTM A193 Grade B7 Stud Bolts can be zinc plated, hot-dip galvanized, Xylan coated, or PTFE coated if the consumer requires it. Coating the ASTM A193 B7 Fasteners helps to improve their corrosion resistance. ASTM A193 Grade B7m Bolts are commonly used in the fastening of medium high temperature service materials. To ensure higher efficiency and less maintenance, the raw material is sourced from reputable market vendors who provide 100% pure alloy quality. Our entire manufacturing process is carried out under the strict supervision of our professional experts who have desirable product development skills and knowledge. We always guarantee that we will deliver the product on time and in good condition to our dependable customers.</p>
-                    <h3 class="text-primary">Supplying ASTM A193 Grade B7 Bolts to Following Domestic Cities</h3>
-                    <p class="mb-4 pb-2">Rotex Engineers is one of India’s major producers, exporters, stockist of ASTM A193 Grade B7 Bolts, due to its dependability and performance. We export two containers of ASTM A193 Grade B7 Bolts products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality SA193 Grade B7 Bolts at affordable prices with simple services.</p>
+                    <h3 class="text-primary jt">About ASTM A193 Grade B7 Bolts Manufacturer - Rotex Engineers</h3>
+                    <p class="mb-4 pb-2 jt">ASTM A193 B7 Bolts are made of chromium molybdenum and heat treated steel. These ASTM A193 B7 Metric Bolts are made by heat quenching and tempering. ASTM A193 B7 Fasteners are typically available in a bare metal finish. The ASTM A193 Grade B7 Stud Bolts can be zinc plated, hot-dip galvanized, Xylan coated, or PTFE coated if the consumer requires it. Coating the ASTM A193 B7 Fasteners helps to improve their corrosion resistance. ASTM A193 Grade B7m Bolts are commonly used in the fastening of medium high temperature service materials. To ensure higher efficiency and less maintenance, the raw material is sourced from reputable market vendors who provide 100% pure alloy quality. Our entire manufacturing process is carried out under the strict supervision of our professional experts who have desirable product development skills and knowledge. We always guarantee that we will deliver the product on time and in good condition to our dependable customers.</p>
+                    <h3 class="text-primary jt">Supplying ASTM A193 Grade B7 Bolts to Following Domestic Cities</h3>
+                    <p class="mb-4 pb-2 jt">Rotex Engineers is one of India’s major producers, exporters, stockist of ASTM A193 Grade B7 Bolts, due to its dependability and performance. We export two containers of ASTM A193 Grade B7 Bolts products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality SA193 Grade B7 Bolts at affordable prices with simple services.</p>
+                    <div class="table-responsive">
                     <table class="table table-bordered">
                         <thead>
                             <th colspan="6"><center>Cities We Supply ASTM A193 Grade B7 Bolts products</center></th>
@@ -329,8 +332,10 @@
                             </tr>
                         </tbody>
                     </table>
-                    <h3 class="text-primary">Export ASTM A193 Grade B7 Bolts products to Below Countries</h3>
-                    <p class="mb-4 pb-2">Our high-quality ASTM A193 Grade B7 Bolts and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading ASTM A193 Grade B7 Bolts suppliers. Over 35 countries purchased our B7 hex bolts on a regular basis. We’ve supplied over 100+ tonnes of the ASTM A193 Grade B7 Bolts to India in the last seven years. Custom ASTM A193 Grade B7 Bolts orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                    </div>
+                    <h3 class="text-primary jt">Export ASTM A193 Grade B7 Bolts products to Below Countries</h3>
+                    <p class="mb-4 pb-2 jt">Our high-quality ASTM A193 Grade B7 Bolts and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading ASTM A193 Grade B7 Bolts suppliers. Over 35 countries purchased our B7 hex bolts on a regular basis. We’ve supplied over 100+ tonnes of the ASTM A193 Grade B7 Bolts to India in the last seven years. Custom ASTM A193 Grade B7 Bolts orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                    <div class="table-responsive">
                     <table class="table table-bordered">
                         <thead>
                             <th colspan="4"><center>Countries We Export our ASTM A193 Grade B7 Bolts products</center></th>
@@ -374,6 +379,7 @@
                             </tr>
                         </tbody>
                     </table>
+                    </div>
                 </div>
             </div>
         </div>

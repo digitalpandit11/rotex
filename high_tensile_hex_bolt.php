@@ -22,10 +22,10 @@
         <div class="container about px-lg-0">
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-9 ps-lg-2" style="min-height: 400px;">
-                <img class="mt-2" src="img/product/bolt/high-tensile-hex-bol.jpg" alt=""><br><br>
-                <h3 class="text-primary">High Tensile Hex Bolt Manufacturers, Exporter, and Stockist in India</h3>
-                <p class="mb-4 pb-2">Rotex Engineers is top Manufacturer of High Tensile Hex Bolt in India. We provides High Tensile Hex Bolt in a variety of sizes and shapes. High Tensile Hex Bolts can also be found in a variety of materials and grades. Each High Tensile Hex Bolt has different specification and use. We are also known as leading High Tensile Hex Bolts Manufacturer, Stockist & Exportor in India. To manufacture high-quality High Tensile Hex Bolts for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our qualitative range of High Tensile Hex Bolt is exclusively designed for several bolts applications of various industries Such as Petroleum industry, Oil & Gas Industries, Chemical Processing industry etc.</p>
-                <p class="mb-4 pb-2">We have a large selection of High Tensile Hex Bolt in stock and ready to ship. We take orders and manufacture according to the requirement of our customers. we are India’s biggest manufacturer of larger diameter High Tensile Hex Bolt as well as fasteners. All of our Bolt are compliant with International Quality Standards (IQS) and may be used anywhere in the world without any problem. We also specialize in I Bolt.</p>
+                <img class=" img-fluid mt-2" src="img/product/bolt/high-tensile-hex-bol.jpg" alt=""><br><br>
+                <h3 class="text-primary jt">High Tensile Hex Bolt Manufacturers, Exporter, and Stockist in India</h3>
+                <p class="mb-4 pb-2 jt">Rotex Engineers is top Manufacturer of High Tensile Hex Bolt in India. We provides High Tensile Hex Bolt in a variety of sizes and shapes. High Tensile Hex Bolts can also be found in a variety of materials and grades. Each High Tensile Hex Bolt has different specification and use. We are also known as leading High Tensile Hex Bolts Manufacturer, Stockist & Exportor in India. To manufacture high-quality High Tensile Hex Bolts for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our qualitative range of High Tensile Hex Bolt is exclusively designed for several bolts applications of various industries Such as Petroleum industry, Oil & Gas Industries, Chemical Processing industry etc.</p>
+                <p class="mb-4 pb-2 jt">We have a large selection of High Tensile Hex Bolt in stock and ready to ship. We take orders and manufacture according to the requirement of our customers. we are India’s biggest manufacturer of larger diameter High Tensile Hex Bolt as well as fasteners. All of our Bolt are compliant with International Quality Standards (IQS) and may be used anywhere in the world without any problem. We also specialize in I Bolt.</p>
 
                 <br><br>
                 <h3 class="text-primary">Specification of High Tensile Hex Bolt :</h3>
@@ -78,10 +78,11 @@
                     </div>
                 </div>
                 <br><br>
-                <h3 class="text-primary">About High Tensile hex Bolt Manufacturer - Rotex Engineers</h3>
-                <p class="mb-4 pb-2">Large-tensile steel screws and nuts can bear high loads without losing strength or structure. The strongest structural bolts are grade 9 structural bolts, often known as grade 9 hex cap screws. High Tensile Hex Bolt Hex Bolt are unique in style are used in the different industries. All of our High Tensile Hex Bolt Hex Bolt are compliant with International Quality Standards (IQS) and may be used anywhere in the world without any problem.</p>
-                <h3 class="text-primary">Supplying High Tensile Hex Bolts to Following Domestic Cities</h3>
-                <p class="mb-4 pb-2">Rotex Engineers  is one of India’s major producers, exporters, stockist of High Tensile Hex Bolts, due to its dependability and performance. We export two containers of High Tensile Hex Bolts products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality High Tensile Hex Bolts at affordable prices with simple services.</p>
+                <h3 class="text-primary jt">About High Tensile hex Bolt Manufacturer - Rotex Engineers</h3>
+                <p class="mb-4 pb-2 jt">Large-tensile steel screws and nuts can bear high loads without losing strength or structure. The strongest structural bolts are grade 9 structural bolts, often known as grade 9 hex cap screws. High Tensile Hex Bolt Hex Bolt are unique in style are used in the different industries. All of our High Tensile Hex Bolt Hex Bolt are compliant with International Quality Standards (IQS) and may be used anywhere in the world without any problem.</p>
+                <h3 class="text-primary jt">Supplying High Tensile Hex Bolts to Following Domestic Cities</h3>
+                <p class="mb-4 pb-2 jt">Rotex Engineers  is one of India’s major producers, exporters, stockist of High Tensile Hex Bolts, due to its dependability and performance. We export two containers of High Tensile Hex Bolts products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality High Tensile Hex Bolts at affordable prices with simple services.</p>
+                <div class="table-responsive">
                 <table class="table table-bordered">
                     <thead>
                         <th colspan="6"><center>Cities We Supply High Tensile Hex Bolts products</center></th>
@@ -177,8 +178,10 @@
                         </tr>
                     </tbody>
                 </table>
-                <h3 class="text-primary">Export High Tensile Hex Bolts products to Below Countries</h3>
-                <p class="mb-4 pb-2">Our high-quality High Tensile Hex Bolts and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading High Tensile Hex Bolts suppliers. Over 35 countries purchased our High Tensile Hex Bolts on a regular basis. We’ve supplied over 1000+ toners of the High Tensile Hex Bolts to India in the last seven years. Custom High Tensile Hex Bolts orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+               </div>
+                <h3 class="text-primary jt">Export High Tensile Hex Bolts products to Below Countries</h3>
+                <p class="mb-4 pb-2 jt">Our high-quality High Tensile Hex Bolts and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading High Tensile Hex Bolts suppliers. Over 35 countries purchased our High Tensile Hex Bolts on a regular basis. We’ve supplied over 1000+ toners of the High Tensile Hex Bolts to India in the last seven years. Custom High Tensile Hex Bolts orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                <div class="table-responsive">
                 <table class="table table-bordered">
                     <thead>
                         <th colspan="4"><center>Countries We Export our High Tensile Hex Bolts products</center></th>
@@ -222,6 +225,7 @@
                         </tr>
                     </tbody>
                 </table>
+                </div>
                 </div>
                 <div class="col-lg-3 about-text  wow fadeIn" data-wow-delay="0.5s">
                     <div class="p-lg-5 pe-lg-0">

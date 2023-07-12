@@ -31,9 +31,9 @@
                     </div>
                 </div><br><br>
                 
-                <h3 class="text-primary">Eye Bolt Manufacturers, Exporter, and Stockist in India</h3>
-                <p class="mb-4 pb-2">Rotex Engineers is top Manufacturer of Eye Bolt in India. We provides Eye Bolt in a variety of sizes and shapes. Eye Bolts can also be found in a variety of materials and grades. Each Eye Bolt has different specification and use. We are also known as leading Eye Bolts Manufacturer, Stockist & Exportor in India. To manufacture high-quality Eye Bolts for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our qualitative range of Eye Bolt is exclusively designed for several bolts applications of various industries Such as Petroleum industry, Oil & Gas Industries, Chemical Processing industry etc.</p>
-                <p class="mb-4 pb-2">We have a large selection of Eye Bolt in stock and ready to ship. We take orders and manufacture according to the requirement of our customers. we are India’s biggest manufacturer of larger diameter Eye Bolt as well as fasteners. All of our Bolt are compliant with International Quality Standards (IQS) and may be used anywhere in the world without any problem. We also specialize in Square Bolt.</p>
+                <h3 class="text-primary jt">Eye Bolt Manufacturers, Exporter, and Stockist in India</h3>
+                <p class="mb-4 pb-2 jt">Rotex Engineers is top Manufacturer of Eye Bolt in India. We provides Eye Bolt in a variety of sizes and shapes. Eye Bolts can also be found in a variety of materials and grades. Each Eye Bolt has different specification and use. We are also known as leading Eye Bolts Manufacturer, Stockist & Exportor in India. To manufacture high-quality Eye Bolts for our clients, we use the finest quality materials, precision, and cutting-edge technology. Our qualitative range of Eye Bolt is exclusively designed for several bolts applications of various industries Such as Petroleum industry, Oil & Gas Industries, Chemical Processing industry etc.</p>
+                <p class="mb-4 pb-2 jt">We have a large selection of Eye Bolt in stock and ready to ship. We take orders and manufacture according to the requirement of our customers. we are India’s biggest manufacturer of larger diameter Eye Bolt as well as fasteners. All of our Bolt are compliant with International Quality Standards (IQS) and may be used anywhere in the world without any problem. We also specialize in Square Bolt.</p>
 
                 <br><br>
                 <h3 class="text-primary">Specification of Eye Bolt :</h3>
@@ -48,7 +48,7 @@
                     <p class="mb-2"><b>Eye Bolt Length:</b> 30MM – 1000MM</p>
                     </li>
                     <li>
-                    <p class="mb-2"><b>Eye Bolt Materials:</b> Carbon Steel Alloy Steel 304,304L,316,316L,310,410,Monel,Inconel,Duplex,B – 7 B – 8 B8M B8c L7 L & M etc.</p>
+                    <p class="mb-2 jt"><b>Eye Bolt Materials:</b> Carbon Steel Alloy Steel 304,304L,316,316L,310,410,Monel,Inconel,Duplex,B – 7 B – 8 B8M B8c L7 L & M etc.</p>
                     </li>
                 </ul>
 
@@ -57,12 +57,12 @@
                     <div class="col-lg-6">
                         <h4 class="mb-2">Application & Uses Of Eye  Bolt</h4>
                         <ul>
-                            <li class="mb-2">Eye  Bolt used in Petroleum Industry</li>
-                            <li class="mb-2">Eye  Bolt used in Aerospace Industry</li>
-                            <li class="mb-2">Eye  Bolt used in Chemical Industry</li>
-                            <li class="mb-2">Eye  Bolt used in oil & Gas Industry</li>
-                            <li class="mb-2">Eye  Bolt used in Nuclear Energy Sector</li>
-                            <li class="mb-2">Eye  Bolt used in automotive industries</li>
+                            <li class="mb-2 jt">Eye  Bolt used in Petroleum Industry</li>
+                            <li class="mb-2 jt">Eye  Bolt used in Aerospace Industry</li>
+                            <li class="mb-2 jt">Eye  Bolt used in Chemical Industry</li>
+                            <li class="mb-2 jt">Eye  Bolt used in oil & Gas Industry</li>
+                            <li class="mb-2 jt">Eye  Bolt used in Nuclear Energy Sector</li>
+                            <li class="mb-2 jt">Eye  Bolt used in automotive industries</li>
                         </ul>
                     </div>
                     <div class="col-lg-6">
@@ -70,10 +70,11 @@
                     </div>
                 </div>
                 <br><br>
-                <h3 class="text-primary">About Eye Bolt Manufacturer - Rotex Engineers</h3>
-                <p class="mb-4 pb-2">Eye Bolts can be used as a connection point for applications such as rigging, anchoring, pulling, pushing, or hoisting. Although Eye Bolts are widely used in industrial applications, they are frequently misunderstood or misused. An Eye Bolt with a 1/4 inch shank can typically support up to 600 pounds. All of our Eye Bolt are compliant with International Quality Standards (IQS) and may be used anywhere in the world without any problem.</p>
-                <h3 class="text-primary">Supplying Eye Bolts to Following Domestic Cities</h3>
-                <p class="mb-4 pb-2">Rotex Engineers is one of India’s major producers, exporters, stockist of Eye Bolts, due to its dependability and performance. We export two containers of Eye Bolts products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Eye Bolts at affordable prices with simple services.</p>
+                <h3 class="text-primary jt">About Eye Bolt Manufacturer - Rotex Engineers</h3>
+                <p class="mb-4 pb-2 jt">Eye Bolts can be used as a connection point for applications such as rigging, anchoring, pulling, pushing, or hoisting. Although Eye Bolts are widely used in industrial applications, they are frequently misunderstood or misused. An Eye Bolt with a 1/4 inch shank can typically support up to 600 pounds. All of our Eye Bolt are compliant with International Quality Standards (IQS) and may be used anywhere in the world without any problem.</p>
+                <h3 class="text-primary jt">Supplying Eye Bolts to Following Domestic Cities</h3>
+                <p class="mb-4 pb-2 jt">Rotex Engineers is one of India’s major producers, exporters, stockist of Eye Bolts, due to its dependability and performance. We export two containers of Eye Bolts products to Indian ports each month to diverse consumers. We have sales representatives in most of the major cities because we provide high-quality Eye Bolts at affordable prices with simple services.</p>
+                <div class="table-responsive"> 
                 <table class="table table-bordered">
                     <thead>
                         <th colspan="6"><center>Cities We Supply Eye Bolts products</center></th>
@@ -169,8 +170,10 @@
                         </tr>
                     </tbody>
                 </table>
-                <h3 class="text-primary">Export Eye Bolts products to Below Countries</h3>
-                <p class="mb-4 pb-2">Our high-quality Eye Bolts and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading Eye Bolts suppliers. Over 35 countries purchased our Eye Bolts on a regular basis. We’ve supplied over 1000+ toners of the Eye Bolts to India in the last seven years. Custom Eye Bolts orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+               </div>
+                <h3 class="text-primary jt">Export Eye Bolts products to Below Countries</h3>
+                <p class="mb-4 pb-2 jt">Our high-quality Eye Bolts and in-house processing capabilities have helped us establish ourselves as one of India’s most promising and leading Eye Bolts suppliers. Over 35 countries purchased our Eye Bolts on a regular basis. We’ve supplied over 1000+ toners of the Eye Bolts to India in the last seven years. Custom Eye Bolts orders are also accepted, and they are ready to ship as soon as the customer requires them.</p>
+                <div class="table-responsive">
                 <table class="table table-bordered">
                     <thead>
                         <th colspan="4"><center>Countries We Export our Eye Bolts products</center></th>
@@ -215,6 +218,7 @@
                     </tbody>
                 </table>
                 </div>
+              </div>
                 <div class="col-lg-3 about-text  wow fadeIn" data-wow-delay="0.5s">
                     <div class="p-lg-5 pe-lg-0">
                         <div class="bg-primary mb-3" style="width: 60px; height: 2px;"></div>
