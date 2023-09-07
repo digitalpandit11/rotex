@@ -48,6 +48,11 @@
 
     gtag('config', 'AW-11327231605');
     </script>
+
+    <!-- Event snippet for Website lead conversion page -->
+    <script>
+      gtag('event', 'conversion', {'send_to': 'AW-11327231605/_farCLn4494YEPWsn5kq'});
+    </script>
 </head>
 
 <body>
