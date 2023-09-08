@@ -17,21 +17,21 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit'])) {
 
         if (mail($recipient, $email_subject, $formcontent, $mailheader)) {
             // Email sent successfully, redirect with success query parameter
-            header('Location: contact_us.php?success=true');
+            header('Location: https://rotexengineers.com/contact_us.php?success=true');
             exit(); // Ensure script execution stops after redirection
         } else {
             // Email sending failed, redirect with error query parameter
-            header('Location: contact_us.php?success=false');
+            header('Location: https://rotexengineers.com/contact.php?success=false');
             exit();
         }
     } else {
         // Invalid email address, redirect with error query parameter
-        header('Location: contact_us.php?success=false');
+        header('Location: https://rotexengineers.com/contact.php?success=false');
         exit();
     }
 } else {
     // Handle GET request or other methods, if necessary
-    header('Location: contact_us.php');
+    header('Location: https://rotexengineers.com/contact.php');
     exit();
 }
 ?>
