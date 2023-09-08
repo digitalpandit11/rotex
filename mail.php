@@ -8,12 +8,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit'])) {
     $message = $_POST['message'];
 
     // Validate email
-   // if (filter_var($email, FILTER_VALIDATE_EMAIL)) {
+    if (filter_var($email, FILTER_VALIDATE_EMAIL)) {
         $formcontent = "From: $name\nEmail: $email\nSubject: $subject\nMessage: $message";
-        $recipient = "shitalw2031@gmail.com";
+        $recipient = "rotexengineers@gmail.com";
+        $cc = " shitalw2031@gmail.com"; // Add the CC email address here
         $email_subject = "Contact Form";
 
         $mailheader = "From: $email\r\n";
+        $mailheader .= "Cc: $cc\r\n"; // Add CC header
 
         if (mail($recipient, $email_subject, $formcontent, $mailheader)) {
             // Email sent successfully, redirect with success query parameter
@@ -24,13 +26,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit'])) {
             header('Location:contact.php?success=false');
             exit();
         }
-    // } else {
-    //     // Invalid email address, redirect with error query parameter
-    //     header('Location:contact.php?success=false');
-    //     exit();
-    // }
+    } else {
+        // Invalid email address, redirect with error query parameter
+        header('Location:contact.php?success=false');
+        exit();
+    }
 } else {
-    // Handle GET request or other methods, if necessary
     header('Location:contact.php');
     exit();
 }
