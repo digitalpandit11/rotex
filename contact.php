@@ -28,7 +28,7 @@
                         <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>1 & 2, Rajgurunagar Industrial Estate, T Block, Plot No. 106/ 2, M. I. D. C, Bhosari, Pune - 411 026, Maharashtra</p>
                         <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>91 9850237399</p>
                         <p class="mb-2"><i class="fa fa-envelope me-3"></i>rotexengineers@gmail.com</p>
-                        <form>
+                        <form action="mail.php" method="post">
                             <div class="row g-3">
                                 <div class="col-md-6">
                                     <div class="form-floating">

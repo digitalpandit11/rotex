@@ -2,12 +2,80 @@
 <html lang="en">
 
 <head>
+<style>
+    .fixed-whatsapp {
+     position: fixed;
+     bottom: 150px;
+     right: 37px;
+     width: 50px;
+     height: 50px;
+     line-height: 50px;
+     z-index: 9999;
+     text-align: center;
+}
+ .fixed-whatsapp:before {
+     content: "";
+     width: 50px;
+     height: 50px;
+     /* background-color: #00C853; */
+     position: absolute;
+     border-radius: 100%;
+     box-shadow: 0 1px 1.5px 0 rgba(0, 0, 0, .12), 0 1px 1px 0 rgba(0, 0, 0, .24);
+     z-index: 1;
+     top: 0;
+     left: 0;
+}
+ .fixed-whatsapp img {
+     vertical-align: middle;
+     background-color: white;
+     border-radius : 50%;
+     z-index: 2;
+     position: relative;
+}
+.fixed-call {
+     position: fixed;
+     bottom: 226px;
+     right: 37px;
+     width: 50px;
+     height: 50px;
+     
+     line-height: 50px;
+     z-index: 9999;
+     text-align: center;
+}
+ .fixed-call:before {
+     content: "";
+     width: 50px;
+     height: 50px;
+     /* background-color: #00C853; */
+     position: absolute;
+     border-radius: 100%;
+     box-shadow: 0 1px 1.5px 0 rgba(0, 0, 0, .12), 0 1px 1px 0 rgba(0, 0, 0, .24);
+     z-index: 1;
+     top: 0;
+     left: 0;
+}
+ .fixed-call img {
+     vertical-align: middle;
+     background-color: white;
+     border-radius : 50%;
+     z-index: 2;
+     position: relative;
+}
+    </style>
+     <a class='fixed-whatsapp' href='https://api.whatsapp.com/send?phone=9850237399' rel='nofollow noopener' target='_blank' title='Whatsapp'>
+     <img src="img/whatsapp.gif" height="65" width="65"></img>
+</a>
+
+<a class='fixed-call' href='tel:919850237399' rel='nofollow noopener' target='_blank' title='Call'>
+<img src="img/tel.png" height="61" width="61"></img>
+</a>
     <meta charset="utf-8">
     <title>Rotex Engineers</title>
    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, minimum-scale=1">
     <meta content="" name="keywords">
     <meta content="" name="description">
-
+      
     <!-- Favicon -->
     <link href="img/icon/ficon.jpg" rel="icon">
 
@@ -53,6 +121,8 @@
     <script>
       gtag('event', 'conversion', {'send_to': 'AW-11327231605/_farCLn4494YEPWsn5kq'});
     </script>
+
+    
 </head>
 
 <body>
