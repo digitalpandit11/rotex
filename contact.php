@@ -28,6 +28,18 @@
                         <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>1 & 2, Rajgurunagar Industrial Estate, T Block, Plot No. 106/ 2, M. I. D. C, Bhosari, Pune - 411 026, Maharashtra</p>
                         <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>91 9850237399</p>
                         <p class="mb-2"><i class="fa fa-envelope me-3"></i>rotexengineers@gmail.com</p>
+                         <!-- Display success message if 'success' query parameter is 'true' -->
+                            <?php
+                            if (isset($_GET['success']) && $_GET['success'] == 'true') {
+                                echo '<p class="success-message">Email sent successfully!</p>';
+                            }
+
+                            // Display error message if 'success' query parameter is 'false'
+                            if (isset($_GET['success']) && $_GET['success'] == 'false') {
+                                echo '<p class="error-message">Email sending failed. Please try again.</p>';
+                            }
+                           ?>
+                        
                         <form action="mail.php" method="post">
                             <div class="row g-3">
                                 <div class="col-md-6">
