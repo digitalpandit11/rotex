@@ -31,12 +31,12 @@
                          <!-- Display success message if 'success' query parameter is 'true' -->
                             <?php
                             if (isset($_GET['success']) && $_GET['success'] == 'true') {
-                                echo '<p class="success-message">Email sent successfully!</p>';
+                                echo '<p id="success-message" class="success-message">Email sent successfully!</p>';
                             }
 
                             // Display error message if 'success' query parameter is 'false'
                             if (isset($_GET['success']) && $_GET['success'] == 'false') {
-                                echo '<p class="error-message">Email sending failed. Please try again.</p>';
+                                echo '<p id="error-message" class="error-message">Email sending failed. Please try again.</p>';
                             }
                            ?>
                         
@@ -82,5 +82,33 @@
         </div>
     </div>
     <!-- Contact End -->
+    <script>
+        // Function to hide the success message after a delay
+        function hideSuccessMessage() {
+            var successMessage = document.getElementById('success-message');
+            if (successMessage) {
+            setTimeout(function () {
+                successMessage.style.display = 'none';
+            }, 4000); 
+            }
+        }
+
+        // Call the function to hide the success message
+        hideSuccessMessage();
+        </script>
+   <script>
+    // Function to hide the error message after a delay
+    function hideErrorMessage() {
+        var errorMessage = document.getElementById('error-message');
+        if (errorMessage) {
+        setTimeout(function () {
+            errorMessage.style.display = 'none';
+        }, 4000); 
+        }
+    }
+
+    // Call the function to hide the error message
+    hideErrorMessage();
+    </script>
 
     <?php include 'footer.php';?>    
