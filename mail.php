@@ -8,7 +8,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit'])) {
     $message = $_POST['message'];
 
     // Validate email
-    if (filter_var($email, FILTER_VALIDATE_EMAIL)) {
+   // if (filter_var($email, FILTER_VALIDATE_EMAIL)) {
         $formcontent = "From: $name\nEmail: $email\nSubject: $subject\nMessage: $message";
         $recipient = "shitalw2031@gmail.com";
         $email_subject = "Contact Form";
@@ -17,21 +17,21 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit'])) {
 
         if (mail($recipient, $email_subject, $formcontent, $mailheader)) {
             // Email sent successfully, redirect with success query parameter
-            header('Location: https://rotexengineers.com/contact_us.php?success=true');
+            header('Location:contact.php?success=true');
             exit(); // Ensure script execution stops after redirection
         } else {
             // Email sending failed, redirect with error query parameter
-            header('Location: https://rotexengineers.com/contact.php?success=false');
+            header('Location:contact.php?success=false');
             exit();
         }
-    } else {
-        // Invalid email address, redirect with error query parameter
-        header('Location: https://rotexengineers.com/contact.php?success=false');
-        exit();
-    }
+    // } else {
+    //     // Invalid email address, redirect with error query parameter
+    //     header('Location:contact.php?success=false');
+    //     exit();
+    // }
 } else {
     // Handle GET request or other methods, if necessary
-    header('Location: https://rotexengineers.com/contact.php');
+    header('Location:contact.php');
     exit();
 }
 ?>
