@@ -3,6 +3,29 @@
 
 <head>
 <style>
+    .popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  z-index: 9999;
+  display: none;
+}
+
+.popup p {
+  margin: 0;
+  font-weight: bold;
+  color: green;
+}
+
+.hiddenn {
+  display: none;
+}
+
     .fixed-whatsapp {
      position: fixed;
      bottom: 150px;

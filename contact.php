@@ -28,18 +28,22 @@
                         <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>1 & 2, Rajgurunagar Industrial Estate, T Block, Plot No. 106/ 2, M. I. D. C, Bhosari, Pune - 411 026, Maharashtra</p>
                         <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>91 9850237399</p>
                         <p class="mb-2"><i class="fa fa-envelope me-3"></i>rotexengineers@gmail.com</p>
-                         <!-- Display success message if 'success' query parameter is 'true' -->
-                            <?php
-                            if (isset($_GET['success']) && $_GET['success'] == 'true') {
-                                echo '<p id="success-message" class="success-message">Email sent successfully!</p>';
-                            }
-
-                            // Display error message if 'success' query parameter is 'false'
-                            if (isset($_GET['success']) && $_GET['success'] == 'false') {
-                                echo '<p id="error-message" class="error-message">Email sending failed. Please try again.</p>';
-                            }
-                           ?>
                         
+                        <!-- Display success message if 'success' query parameter is 'true' -->
+                            <?php
+                            // if (isset($_GET['success']) && $_GET['success'] == 'true') {
+                            //     echo '<p id="success-message" class="success-message">Email sent successfully!</p>';
+                            // }
+
+                            // // Display error message if 'success' query parameter is 'false'
+                            // if (isset($_GET['success']) && $_GET['success'] == 'false') {
+                            //     echo '<p id="error-message" class="error-message">Email sending failed. Please try again.</p>';
+                            // }
+                           ?>
+                        <div id="success-popup" class="popup hiddenn">
+                               <p>Email sent successfully!</p>
+                        </div>
+
                         <form action="mail.php" method="post">
                             <div class="row g-3">
                                 <div class="col-md-6">
@@ -110,5 +114,26 @@
     // Call the function to hide the error message
     hideErrorMessage();
     </script>
+
+        <script>
+        // Function to show the success message popup
+        function showSuccessPopup() {
+            var successPopup = document.getElementById('success-popup');
+            successPopup.style.display = 'block';
+
+            // Hide the popup after 5 seconds (5000 milliseconds)
+            setTimeout(function() {
+            successPopup.style.display = 'none';
+            }, 5000);
+        }
+
+        // Check if the 'success' query parameter is 'true' and show the success message
+        var urlParams = new URLSearchParams(window.location.search);
+        var successParam = urlParams.get('success');
+        if (successParam === 'true') {
+            showSuccessPopup();
+        }
+        </script>
+
 
     <?php include 'footer.php';?>    
