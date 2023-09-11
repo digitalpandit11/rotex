@@ -11,7 +11,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit'])) {
     if (filter_var($email, FILTER_VALIDATE_EMAIL)) {
         $formcontent = "From: $name\nEmail: $email\nMobile No: $mobile_number\nMessage: $message";
         $recipient = "shitalw2031@gmail.com";
-        $cc = "shitalw2031@gmail.com"; 
+        $cc = "shitalw2031@gmail.com";
         $email_subject = "Contact Form";
 
         $mailheader = "From: $email\r\n";
@@ -19,17 +19,17 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit'])) {
 
         if (mail($recipient, $email_subject, $formcontent, $mailheader)) {
             // Email sent successfully, store success status in session
-            $_SESSION['contact_success'] = true;
+            $_SESSION['contact_status'] = 'success';
         } else {
             // Email sending failed, store error status in session
-            $_SESSION['contact_error'] = true;
+            $_SESSION['contact_status'] = 'error';
         }
     } else {
         // Invalid email address, store error status in session
-        $_SESSION['contact_error'] = true;
+        $_SESSION['contact_status'] = 'error';
     }
-    
-    // Redirect back to contact.php without any query parameters
+
+    // Redirect back to contact.php
     header('Location: contact.php');
     exit();
 } else {

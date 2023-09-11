@@ -111,11 +111,6 @@
     // Hide the popup after 5 seconds (5000 milliseconds)
     setTimeout(function() {
       successPopup.style.display = 'none';
-      
-      // Redirect back to contact.php without any query parameters if not already redirected
-      if (window.location.href.indexOf('?success=true') !== -1) {
-        window.location.href = 'contact.php';
-      }
     }, 5000);
   }
 
@@ -127,20 +122,14 @@
     // Hide the popup after 5 seconds (5000 milliseconds)
     setTimeout(function() {
       errorPopup.style.display = 'none';
-      
-      // Redirect back to contact.php without any query parameters if not already redirected
-      if (window.location.href.indexOf('?success=false') !== -1) {
-        window.location.href = 'contact.php';
-      }
     }, 5000);
   }
 
-  // Check if the 'success' query parameter is 'true' or 'false' and show the corresponding popup message
-  var urlParams = new URLSearchParams(window.location.search);
-  var successParam = urlParams.get('success');
-  if (successParam === 'true') {
+  // Check the contact status stored in the session and show the corresponding popup message
+  var contactStatus = "<?php echo $_SESSION['contact_status']; ?>";
+  if (contactStatus === 'success') {
     showSuccessPopup();
-  } else if (successParam === 'false') {
+  } else if (contactStatus === 'error') {
     showErrorPopup();
   }
 </script>
