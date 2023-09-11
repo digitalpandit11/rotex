@@ -1,3 +1,8 @@
+<?php
+        session_start(); // Start or resume the session
+
+        // Check if the success or error status is set in sessi
+?>
 <?php include 'header.php';?>
 
     <!-- Page Header Start -->
@@ -40,15 +45,17 @@
                             //     echo '<p id="error-message" class="error-message">Email sending failed. Please try again.</p>';
                             // }
                            ?>
-                        <div id="success-popup" class="popup hiddenn">
-                               <p>Email sent successfully!</p>
-                        </div>
 
-                        <div id="error-popup" class="popup hiddenn">
-                                 <p>Email sending failed. Please try again.</p>
-                        </div>
+                             <!-- Success and Error Messages -->
+                             <div id="success-popup" class="popup hidden">
+                                <p id="success-message" class="success-message">Message sent successfully!</p>
+                            </div>
 
-
+                            <!-- Error Popup -->
+                            <div id="error-popup" class="popup hidden">
+                                <p id="error-message" class="error-message">Error sending message. Please try again later.</p>
+                            </div>
+                                                
                         <form action="mail.php" method="post">
                             <div class="row g-3">
                                 <div class="col-md-6">
@@ -80,6 +87,8 @@
                                 </div>
                             </div>
                         </form>
+                          <!-- Success Popup -->
+                      
                     </div>
                 </div>
                 <div class="col-lg-6 pe-lg-0" style="min-height: 400px;">
@@ -91,76 +100,52 @@
         </div>
     </div>
     <!-- Contact End -->
+  
+
     <script>
-        // Function to hide the success message after a delay
-        function hideSuccessMessage() {
-            var successMessage = document.getElementById('success-message');
-            if (successMessage) {
-            setTimeout(function () {
-                successMessage.style.display = 'none';
-            }, 4000); 
-            }
-        }
+  // Function to show the success message popup
+  function showSuccessPopup() {
+    var successPopup = document.getElementById('success-popup');
+    successPopup.style.display = 'block';
 
-        // Call the function to hide the success message
-        hideSuccessMessage();
-        </script>
-   <script>
-    // Function to hide the error message after a delay
-    function hideErrorMessage() {
-        var errorMessage = document.getElementById('error-message');
-        if (errorMessage) {
-        setTimeout(function () {
-            errorMessage.style.display = 'none';
-        }, 4000); 
-        }
-    }
+    // Hide the popup after 5 seconds (5000 milliseconds)
+    setTimeout(function() {
+      successPopup.style.display = 'none';
+      
+      // Redirect back to contact.php without any query parameters if not already redirected
+      if (window.location.href.indexOf('?success=true') !== -1) {
+        window.location.href = 'contact.php';
+      }
+    }, 5000);
+  }
 
-    // Call the function to hide the error message
-    hideErrorMessage();
-    </script>
+  // Function to show the error message popup
+  function showErrorPopup() {
+    var errorPopup = document.getElementById('error-popup');
+    errorPopup.style.display = 'block';
 
-        <script>
-        // Function to show the success message popup
-        function showSuccessPopup() {
-            var successPopup = document.getElementById('success-popup');
-            successPopup.style.display = 'block';
+    // Hide the popup after 5 seconds (5000 milliseconds)
+    setTimeout(function() {
+      errorPopup.style.display = 'none';
+      
+      // Redirect back to contact.php without any query parameters if not already redirected
+      if (window.location.href.indexOf('?success=false') !== -1) {
+        window.location.href = 'contact.php';
+      }
+    }, 5000);
+  }
 
-            // Hide the popup after 5 seconds (5000 milliseconds)
-            setTimeout(function() {
-            successPopup.style.display = 'none';
-            }, 5000);
-        }
+  // Check if the 'success' query parameter is 'true' or 'false' and show the corresponding popup message
+  var urlParams = new URLSearchParams(window.location.search);
+  var successParam = urlParams.get('success');
+  if (successParam === 'true') {
+    showSuccessPopup();
+  } else if (successParam === 'false') {
+    showErrorPopup();
+  }
+</script>
 
-        // Check if the 'success' query parameter is 'true' and show the success message
-        var urlParams = new URLSearchParams(window.location.search);
-        var successParam = urlParams.get('success');
-        if (successParam === 'true') {
-            showSuccessPopup();
-        }
-       
 
-        // Function to show the error message popup
-        function showErrorPopup() {
-            var errorPopup = document.getElementById('error-popup');
-            errorPopup.style.display = 'block';
-
-            // Hide the popup after 5 seconds (5000 milliseconds)
-            setTimeout(function() {
-            errorPopup.style.display = 'none';
-            }, 5000);
-        }
-
-        // Check if the 'success' query parameter is 'true' or 'false' and show the corresponding popup message
-        var urlParams = new URLSearchParams(window.location.search);
-        var successParam = urlParams.get('success');
-        if (successParam === 'true') {
-            showSuccessPopup();
-        } else if (successParam === 'false') {
-            showErrorPopup();
-        }
-
-        </script>
 
 
     <?php include 'footer.php';?>    

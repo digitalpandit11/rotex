@@ -22,7 +22,7 @@
   color: green;
 }
 
-.hiddenn {
+.hidden {
   display: none;
 }
 
