@@ -5,22 +5,21 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit'])) {
     $name = $_POST['name'];
     $email = $_POST['email'];
     $mobile_number = $_REQUEST['mobile_number'];
-    $subject = $_POST['subject'];
     $message = $_POST['message'];
 
     // Validate email
     if (filter_var($email, FILTER_VALIDATE_EMAIL)) {
-        $formcontent = "From: $name\nEmail: $email\nSubject: $subject\nMessage: $message";
+        $formcontent = "From: $name\nEmail: $email\Mobile No: $mobile_number\nMessage: $message";
       //  $recipient =   "rotexengineers@gmail.com"; 
         $recipient = "shitalw2031@gmail.com";
        // $cc = "info@vbdigitech.com"; 
         $cc = "shitalw2031@gmail.com"; 
-        $email_subject = "Contact Form";
+       $email_subject = "Contact Form";
 
         $mailheader = "From: $email\r\n";
         $mailheader .= "Cc: $cc\r\n"; // Add CC header
 
-        if (mail($recipient, $email_subject, $formcontent, $mailheader)) {
+        if (mail($recipient,$email_subject,  $formcontent, $mailheader)) {
             // Email sent successfully, redirect with success query parameter
             header('Location:contact.php?success=true');
             exit(); 

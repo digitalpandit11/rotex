@@ -44,6 +44,11 @@
                                <p>Email sent successfully!</p>
                         </div>
 
+                        <div id="error-popup" class="popup hiddenn">
+                                 <p>Email sending failed. Please try again.</p>
+                        </div>
+
+
                         <form action="mail.php" method="post">
                             <div class="row g-3">
                                 <div class="col-md-6">
@@ -60,8 +65,8 @@
                                 </div>
                                 <div class="col-12">
                                     <div class="form-floating">
-                                        <input type="text" class="form-control" id="subject" name="subject" placeholder="Subject">
-                                        <label for="subject">Subject</label>
+                                        <input type="text" class="form-control" id="mobile_number" name="mobile_number" placeholder="Mobile Number">
+                                        <label for="subject">Mobile Number</label>
                                     </div>
                                 </div>
                                 <div class="col-12">
@@ -133,6 +138,28 @@
         if (successParam === 'true') {
             showSuccessPopup();
         }
+       
+
+        // Function to show the error message popup
+        function showErrorPopup() {
+            var errorPopup = document.getElementById('error-popup');
+            errorPopup.style.display = 'block';
+
+            // Hide the popup after 5 seconds (5000 milliseconds)
+            setTimeout(function() {
+            errorPopup.style.display = 'none';
+            }, 5000);
+        }
+
+        // Check if the 'success' query parameter is 'true' or 'false' and show the corresponding popup message
+        var urlParams = new URLSearchParams(window.location.search);
+        var successParam = urlParams.get('success');
+        if (successParam === 'true') {
+            showSuccessPopup();
+        } else if (successParam === 'false') {
+            showErrorPopup();
+        }
+
         </script>
 
 
