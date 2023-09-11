@@ -48,7 +48,7 @@
 
                              <!-- Success and Error Messages -->
                              <div id="success-popup" class="popup hidden">
-                                <p id="success-message" class="success-message">Message sent successfully!</p>
+                                <p id="success-message" class="success-message">Thank you for contacting us,we will get back to you soon!</p>
                             </div>
 
                             <!-- Error Popup -->

@@ -10,8 +10,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit'])) {
     // Validate email
     if (filter_var($email, FILTER_VALIDATE_EMAIL)) {
         $formcontent = "From: $name\nEmail: $email\nMobile No: $mobile_number\nMessage: $message";
-        $recipient = "shitalw2031@gmail.com";
-        $cc = "shitalw2031@gmail.com";
+        $recipient = "rotexengineers@gmail.com";
+        $cc = "info@vbdigitech.com";
         $email_subject = "Contact Form";
 
         $mailheader = "From: $email\r\n";
