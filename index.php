@@ -9,7 +9,7 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-12 col-lg-8 text-center">
-                                <h1 class="display-3 text-white animated slideInDown mb-4">Nuts Manufacturer In India, Heavy Hex Nut Manufacturer.</h1>
+                                <h1 class="display-3 text-white animated slideInDown mb-4">India's Trusted Manufacturer of Stud Bolts, Hex Bolts, Nuts & Special Fasteners</h1>
                                 <a href="" class="btn btn-primary rounded-pill py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
                             </div>
                         </div>
@@ -22,7 +22,7 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-12 col-lg-8 text-center">
-                                <h1 class="display-3 text-white animated slideInDown mb-4">Bolts Manufacturer In India, High Tensile Bolt Manufacturer</h1>
+                                <h1 class="display-3 text-white animated slideInDown mb-4">Specialists in ASTM grade Stud Bolts, Hex Bolts, Hex Nuts & Washers</h1>
                                 <a href="" class="btn btn-primary rounded-pill py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
                             </div>
                         </div>
@@ -33,6 +33,11 @@
     </div>
     <!-- Carousel End -->
 
+    <style>
+        .about-text p { color: #ffffff !important; }
+        .about-text h4 { color: #ea1b25 !important; }
+        .about-text h1 { color: #ffffff !important; }
+    </style>
     <!-- About Start -->
     <div class="container-fluid bg-light overflow-hidden my-5 px-lg-0">
         <div class="container about px-lg-0" style="background-color:black;">
@@ -44,10 +49,11 @@
                 </div>
                 <div class="col-lg-6 about-text py-5 wow fadeIn" data-wow-delay="0.5s">
                     <div class="p-lg-5 pe-lg-0">
-                        <div class="bg-primary mb-3" style="width: 60px; height: 2px;"></div>
-                        <h4 class="text-primary mb-3">Welcome to Rotex Engineers</h4>
-                        <h1 class="display-5 mb-4" style="color:white;">30 Years Experience</h1>
-                        <p class="mb-4 pb-2 jt">Established in the year 1990 at Pune, Maharashtra, We “Rotex Engineers” are a Sole Proprietorship based firm, engaged as the foremost Manufacturer And Wholesaler of Flash Dryer, Heat Press Machine, Screen Printing Aluminium Frame, etc. Our products are high in demand due to their premium quality and affordable prices. Furthermore, we ensure to timely deliver these products to our clients, through this, we have gained a huge clients base in the market.</p>
+                        <div class=”bg-primary mb-3” style=”width: 60px; height: 2px;”></div>
+                        <h4 style=”color:#ea1b25 !important; -webkit-text-fill-color:#ea1b25; letter-spacing: 3px; font-weight: 600; font-size: 1rem; text-transform: uppercase;” class=”mb-3”>WELCOME TO ROTEX ENGINEERS</h4>
+                        <h1 style=”color:#ffffff !important; -webkit-text-fill-color:#ffffff; font-size: 2rem; font-weight: 700; line-height: 1.3; text-shadow: none;” class=”mb-4”>Leading Manufacturer & Exporter of Stud Bolts, Heavy Hex Nuts & Special Fasteners</h1>
+                        <p class=”mb-4 pb-2 jt text-white”>Rotex Engineers is a trusted manufacturer and exporter of high-quality Stud Bolts, Heavy Hex Nuts, Threaded Rods, and Special Fasteners serving critical industries worldwide.</p>
+                        <p class=”mb-4 pb-2 jt text-white”>With decades of manufacturing expertise, we specialize in producing fasteners in Carbon Steel, Alloy Steel, Stainless Steel, Duplex Stainless Steel, Super Duplex, Inconel, Monel, Titanium, and other special alloys in accordance with international standards such as ASTM, ASME, DIN, ISO, and BS.</p>
                         
                         <a href="about.php" class="btn btn-primary rounded-pill py-3 px-5">Explore More</a>
                     </div>
