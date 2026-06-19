@@ -215,78 +215,96 @@
                 <div class="nav-item dropdown">
                     <a href="product.php" class="nav-link nav-item dropdown-toggle" data-bs-toggle="dropdown">Our Products</a>
                     <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="bolts.php">Bolt</a>
+                            <li><a class="dropdown-item" href="#">Stud Bolts</a>
                                 <ul class="dropdown-submenu">
-                                    <li><a class="dropdown-item" href="hex_bolt.php">Hex Bolt</a></li><hr style="margin:0;" class="dropdown-divider">
-                                    <li><a class="dropdown-item" href="allen_cap_bolt.php">Allen Cap Bolt</a></li><hr style="margin:0;" class="dropdown-divider">
-                                    <li><a class="dropdown-item" href="anchor_bolt.php">Anchor Bolt</a></li><hr style="margin:0;" class="dropdown-divider">
-                                    <li><a class="dropdown-item" href="high_tensile_hex_bolt.php">High Tensile Hex Bolt</a></li><hr style="margin:0;" class="dropdown-divider">
-                                    <li><a class="dropdown-item" href="eye_bolt.php">Eye Bolt</a></li><hr style="margin:0;" class="dropdown-divider">
-                                    <li><a class="dropdown-item" href="square_bolt.php">Square Bolt</a></li><hr style="margin:0;" class="dropdown-divider">
-                                    <li><a class="dropdown-item" href="t_bolt.php">T Bolt</a></li><hr style="margin:0;" class="dropdown-divider">
-                                    <li><a class="dropdown-item" href="carriage_bolt.php">Carriage Bolt</a></li><hr style="margin:0;" class="dropdown-divider">
-                                    <li><a class="dropdown-item" href="u_bolt.php">U Bolt</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">ASTM A193 Gr B7 Stud Bolts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">ASTM A193 Gr B7M Stud Bolts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">ASTM A193 Gr B16 Stud Bolts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">ASTM A193 Gr L7 Stud Bolts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">ASTM A193 Gr L7M Stud Bolts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">ASTM A193 Gr B8 Class 1 Stud Bolts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">ASTM A193 Gr B8 Class 2 Stud Bolts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">ASTM A193 Gr B8M Class 1 Stud Bolts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">ASTM A193 Gr B8M Class 2 Stud Bolts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">Duplex F51 Stud Bolts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">Super Duplex F55 Stud Bolts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">Inconel Stud Bolts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">Monel Stud Bolts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">Tap End Studs</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">Double End Studs</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">Fully Threaded Studs</a></li>
                                 </ul>
                             </li><hr style="margin:0;" class="dropdown-divider">
-                            <li><a class="dropdown-item" href="nut.php">Nut</a>
+                            <li><a class="dropdown-item" href="#">Bolts</a>
                                 <ul class="dropdown-submenu">
-                                    <li><a class="dropdown-item" href="hex_nut.php">Hex Nut</a></li><hr style="margin:0;" class="dropdown-divider">
-                                    <li><a class="dropdown-item" href="heavy_hex_nut.php">Heavy Hex Nut</a></li><hr style="margin:0;" class="dropdown-divider">
-                                    <li><a class="dropdown-item" href="lock_nut.php">Lock Nut</a></li><hr style="margin:0;" class="dropdown-divider">
-                                    <li><a class="dropdown-item" href="nylock_nut.php">Nylock Nut</a></li><hr style="margin:0;" class="dropdown-divider">
-                                    <li><a class="dropdown-item" href="nylock_self_locking_nut.php">Nylock Self Locking Nut</a></li><hr style="margin:0;" class="dropdown-divider">
-                                    <li><a class="dropdown-item" href="flange_nut.php">Flange Nut</a></li><hr style="margin:0;" class="dropdown-divider">
-                                    <li><a class="dropdown-item" href="dome_nut.php">Dome Nut</a></li><hr style="margin:0;" class="dropdown-divider">
-                                    <li><a class="dropdown-item" href="weld_nut.php">Weld Nut</a></li><hr style="margin:0;" class="dropdown-divider">
-                                    <li><a class="dropdown-item" href="square_nut.php">Square Nut</a></li><hr style="margin:0;" class="dropdown-divider">
-                                    <li><a class="dropdown-item" href="wing_nut.php">Wing Nut</a></li><hr style="margin:0;" class="dropdown-divider">
-                                    <li><a class="dropdown-item" href="cage_nut.php">Cage Nut</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">Heavy Hex Bolts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">Hex Head Bolts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">Structural Bolts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">Flange Bolts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="anchor_bolt.php">Anchor Bolts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">Foundation Bolts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="u_bolt.php">U Bolts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="eye_bolt.php">Eye Bolts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="t_bolt.php">T Bolts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">Allen Cap Screws</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="carriage_bolt.php">Carriage Bolts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">Square Head Bolts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">Hot Dip Galvanized Bolts</a></li>
                                 </ul>
                             </li><hr style="margin:0;" class="dropdown-divider">
-                            <li><a class="dropdown-item" href="threaded.php">Threaded Rods</a>
+                            <li><a class="dropdown-item" href="nut.php">Nuts</a>
                                 <ul class="dropdown-submenu">
-                                    <li><a class="dropdown-item" href="double_ended_stud.php">Double Ended Stud</a></li><hr style="margin:0;" class="dropdown-divider">
-                                    <li><a class="dropdown-item" href="full_threaded_stud.php">Full threaded Stud</a></li><hr style="margin:0;" class="dropdown-divider">
-                                    <li><a class="dropdown-item" href="half_threaded.php">Half Threaded</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">ASTM A194 Gr 2H Nuts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">ASTM A194 Gr 2HM Nuts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">ASTM A194 Gr 7 Nuts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">ASTM A194 Gr 8 Nuts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">ASTM A194 Gr 8M Nuts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="heavy_hex_nut.php">Heavy Hex Nuts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="hex_nut.php">Hex Nuts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="lock_nut.php">Lock Nuts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="nylock_nut.php">Nylock Nuts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="nylock_self_locking_nut.php">Flange Nuts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="dome_nut.php">Dome Nuts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="square_nut.php">Square Nuts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="wing_nut.php">Wing Nuts</a></li>
                                 </ul>
                             </li><hr style="margin:0;" class="dropdown-divider">
                             <li><a class="dropdown-item" href="washers.php">Washers</a>
                                 <ul class="dropdown-submenu">
-                                    <li><a class="dropdown-item" href="countersunk_finishing.php">Countersunk Finishing</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">ASTM F436 Washers</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="plain_washer.php">Plain Washers</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="spring_washers.php">Spring Washers</a></li><hr style="margin:0;" class="dropdown-divider">
                                     <li><a class="dropdown-item" href="fender_washers.php">Fender Washers</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">Taper Washers</a></li><hr style="margin:0;" class="dropdown-divider">
                                     <li><a class="dropdown-item" href="star_washers.php">Star Washers</a></li><hr style="margin:0;" class="dropdown-divider">
                                     <li><a class="dropdown-item" href="serrated_washers.php">Serrated Washers</a></li><hr style="margin:0;" class="dropdown-divider">
-                                    <li><a class="dropdown-item" href="spring_washers.php">Spring Washers</a></li><hr style="margin:0;" class="dropdown-divider">
-                                    <li><a class="dropdown-item" href="plain_washer.php">Plain Washer</a></li><hr style="margin:0;" class="dropdown-divider">
-                                    <li><a class="dropdown-item" href="wave_washers.php">Wave Washers</a></li>
+                                    <li><a class="dropdown-item" href="wave_washers.php">Wave Washers</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">Square Washers</a></li>
+                                </ul>
+                            </li><hr style="margin:0;" class="dropdown-divider">
+                            <li><a class="dropdown-item" href="threaded.php">Threaded Rods</a>
+                                <ul class="dropdown-submenu">
+                                    <li><a class="dropdown-item" href="#">ASTM A193 B7 Threaded Rods</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">ASTM A193 B16 Threaded Rods</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">Stainless Steel Threaded Rods</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">Duplex Threaded Rods</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">Hot Dip Galvanized Threaded Rods</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">DIN 976 Threaded Rods</a></li>
+                                </ul>
+                            </li><hr style="margin:0;" class="dropdown-divider">
+                            <li><a class="dropdown-item" href="#">Special Fasteners</a>
+                                <ul class="dropdown-submenu">
+                                    <li><a class="dropdown-item" href="#">CNC Machined Fasteners</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">Special Stud Bolts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">Custom Nuts</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">Forged Fasteners</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">Precision Components</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">OEM Fasteners</a></li><hr style="margin:0;" class="dropdown-divider">
+                                    <li><a class="dropdown-item" href="#">Drawing-Based Fasteners</a></li>
                                 </ul>
                             </li>
                         </ul>
-                    <!-- <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="#">Action</a></li><hr style="margin:0;" class="dropdown-divider">
-                        <li>
-                        <a class="dropdown-item" href="#">Another action</a><hr style="margin:0;" class="dropdown-divider">
-                        </li>
-                        <li>
-                        <a class="dropdown-item" href="#">
-                            Submenu &raquo;
-                        </a><hr style="margin:0;" class="dropdown-divider">
-                            <ul class="dropdown-submenu">
-                                <li>
-                                <a class="dropdown-item" href="#">Submenu item 1</a><hr style="margin:0;" class="dropdown-divider">
-                                </li>
-                                <li>
-                                <a class="dropdown-item" href="#">Submenu item 2</a><hr style="margin:0;" class="dropdown-divider">
-                                </li>
-                                <li>
-                                <a class="dropdown-item" href="#">Submenu item 3 </a><hr style="margin:0;" class="dropdown-divider">
-                                </li>
-                                <li>
-                                <a class="dropdown-item" href="#">Submenu item 4</a><hr style="margin:0;" class="dropdown-divider">
-                                </li>
-                                <li>
-                                <a class="dropdown-item" href="#">Submenu item 5</a><hr style="margin:0;" class="dropdown-divider">
-                                </li>
+                    <!-- placeholder
                             </ul>
                         </li>
                     </ul> -->
